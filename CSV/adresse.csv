@@ -1,0 +1,1001 @@
+city,lat,lng,country,id_resto,code_postale
+Saint-Étienne-de-Montluc,47.2764,-1.7803,France,0,66187
+Bologna,44.4939,11.3428,Italy,1,86181
+Casatenovo,45.6983,9.3117,Italy,2,30978
+Gmund am Tegernsee,47.75,11.7333,Germany,3,26087
+Montevarchi,43.5234,11.5679,Italy,4,27354
+Fröndenberg,51.4719,7.7658,Germany,5,46715
+Nieppe,50.7031,2.8389,France,6,71868
+San Giustino,43.55,12.1833,Italy,7,59895
+Sarroch,39.0658,9.0102,Italy,8,66849
+Le Loroux-Bottereau,47.2381,-1.3492,France,9,91421
+Hachenburg,50.6614,7.8203,Germany,10,72144
+Cutro,39.0342,16.9819,Italy,11,72989
+Caprarola,42.3275,12.2367,Italy,12,26484
+Nocera Umbra,43.1167,12.7833,Italy,13,36569
+Périgueux,45.1929,0.7217,France,14,37472
+Kressbronn am Bodensee,47.5958,9.6,Germany,15,32912
+Ajaccio,41.9267,8.7369,France,16,11801
+Dieppe,49.92,1.08,France,17,32822
+Weimar,50.9833,11.3167,Germany,18,8323
+Eitorf,50.7697,7.4517,Germany,19,46770
+Ansbach,49.3,10.5833,Germany,20,90533
+Altenstadt,48.1667,10.1167,Germany,21,60681
+Montgeron,48.7039,2.4605,France,22,48429
+Neufchâteau,48.3556,5.6961,France,23,30709
+Merzhausen,47.9664,7.8286,Germany,24,60751
+Pallazzolo sull’Oglio,45.6,9.8833,Italy,25,18930
+Boulay-Moselle,49.1833,6.4936,France,26,90402
+Licata,37.1083,13.9469,Italy,27,76100
+Umbertide,43.3056,12.3366,Italy,28,9241
+Saint-Vallier,46.6419,4.3711,France,29,70112
+Sainghin-en-Weppes,50.5625,2.9006,France,30,78891
+Bogen,48.9167,12.6833,Germany,31,2292
+Brühl,50.8333,6.9,Germany,32,46727
+Déchy,50.3525,3.1283,France,33,27249
+Polch,50.3011,7.3167,Germany,34,83847
+Casal Velino,40.1833,15.1167,Italy,35,42903
+Chemillé,47.2131,-0.7258,France,36,13473
+Boscotrecase,40.7833,14.4667,Italy,37,90330
+Chevreuse,48.7075,2.0383,France,38,61125
+Bitche,49.0517,7.4253,France,39,35267
+Nova Milanese,45.5833,9.2,Italy,40,68800
+Langelsheim,51.9381,10.335,Germany,41,14778
+Deruta,42.9833,12.4167,Italy,42,7177
+Geseke,51.6497,8.5167,Germany,43,19137
+Laon,49.5639,3.6244,France,44,69034
+Lorgues,43.4933,6.3611,France,45,59708
+Missaglia,45.7,9.3333,Italy,46,76890
+Guînes,50.8678,1.8736,France,47,33126
+Nandy,48.5842,2.5661,France,48,38244
+Nancy,48.6936,6.1846,France,49,83210
+Barano d’Ischia,40.7167,13.9167,Italy,50,22107
+Renningen,48.7661,8.9347,Germany,51,69265
+Cancale,48.6767,-1.8519,France,52,75696
+Beaugency,47.7783,1.6317,France,53,70177
+Hünxe,51.6417,6.7672,Germany,54,4759
+Birkenwerder,52.6833,13.2833,Germany,55,84657
+Paola,39.3667,16.0333,Italy,56,95523
+Lattes,43.5678,3.9021,France,57,83146
+Erchie,40.4333,17.7333,Italy,58,67024
+Roubaix,50.6901,3.1817,France,59,65459
+Bielefeld,52.0167,8.5333,Germany,60,79417
+Barntrup,51.9935,9.1206,Germany,61,20773
+Bagnolo in Piano,44.7667,10.6833,Italy,62,59408
+Gallipoli,40.0556,17.9917,Italy,63,65127
+San Vito al Tagliamento,45.9153,12.8556,Italy,64,31130
+Plankstadt,49.3933,8.5942,Germany,65,20835
+Ventimiglia,43.7903,7.6083,Italy,66,66726
+Mola di Bari,41.0667,17.0833,Italy,67,46856
+Montemarciano,43.6399,13.3104,Italy,68,47947
+Seichamps,48.7158,6.2661,France,69,54264
+Conflans-Sainte-Honorine,48.9992,2.0983,France,70,9315
+Wildberg,48.6239,8.7472,Germany,71,21741
+Triuggio,45.6667,9.2667,Italy,72,23240
+Sarrians,44.0833,4.9711,France,73,47710
+Recke,52.37,7.7189,Germany,74,42396
+Heilbad Heiligenstadt,51.3775,10.1344,Germany,75,25983
+Guilers,48.4256,-4.5581,France,76,51408
+Jever,53.5744,7.9008,Germany,77,50718
+Granville,48.8381,-1.5869,France,78,81758
+Aubigny-sur-Nère,47.4886,2.4392,France,79,80209
+Vauréal,49.03,2.0214,France,80,76188
+Alès,44.1281,4.0817,France,81,7822
+Oranienburg,52.7544,13.2369,Germany,82,22826
+Minerbio,44.6175,11.4717,Italy,83,30609
+Perl,49.4667,6.3667,Germany,84,2612
+Langen,53.6116,8.6032,Germany,85,23208
+Clermont-l’Hérault,43.6272,3.4322,France,86,19542
+Bammental,49.3508,8.7758,Germany,87,65483
+Stadtroda,50.85,11.7333,Germany,88,21501
+Kaarst,51.2278,6.6273,Germany,89,67672
+Châteauneuf-les-Martigues,43.3831,5.1642,France,90,94418
+Marsberg,51.45,8.85,Germany,91,8254
+Le Havre,49.49,0.1,France,92,60963
+Saint-André-des-Eaux,47.3139,-2.3108,France,93,57605
+Rogliano,39.1833,16.3167,Italy,94,15175
+Wesel,51.6586,6.6178,Germany,95,20302
+Ludwigshafen,49.4811,8.4353,Germany,96,16141
+Erstein,48.4219,7.6611,France,97,43827
+Ovelgönne,53.35,8.4,Germany,98,80678
+Barsbüttel,53.5667,10.1667,Germany,99,50449
+San Giovanni in Marignano,43.9393,12.7137,Italy,100,35993
+Sèvres,48.8239,2.2117,France,101,58152
+Montegrotto Terme,45.3333,11.7833,Italy,102,5608
+Libourne,44.92,-0.24,France,103,78105
+Paderborn,51.7167,8.7667,Germany,104,32626
+Moosinning,48.2833,11.85,Germany,105,1609
+Frouzins,43.5161,1.3247,France,106,37063
+Le Coteau,46.0272,4.0867,France,107,77811
+Fossò,45.3833,12.05,Italy,108,40672
+Wächtersbach,50.2667,9.3,Germany,109,39955
+Santa Teresa di Riva,37.94,15.3625,Italy,110,9892
+Wrestedt,52.9,10.5833,Germany,111,26272
+Zibido San Giacomo,45.3667,9.1167,Italy,112,80147
+Le Cendre,45.7225,3.1872,France,113,55620
+Fermo,43.1604,13.7181,Italy,114,62561
+Montivilliers,49.5461,0.1881,France,115,22800
+Fleurance,43.8494,0.6636,France,116,37674
+Baunatal,51.2589,9.4183,Germany,117,2338
+La Riche,47.3892,0.6606,France,118,47167
+Babenhausen,49.9624,8.9533,Germany,119,21583
+Calusco d’Adda,45.6833,9.4833,Italy,120,62632
+Eiterfeld,50.7667,9.8,Germany,121,81666
+Wiesbaden,50.0825,8.24,Germany,122,49704
+Villadossola,46.0736,8.2669,Italy,123,82598
+Oberlungwitz,50.7833,12.7167,Germany,124,34269
+Mazan,44.0567,5.1281,France,125,24763
+Reichelsheim,50.3569,8.8725,Germany,126,11486
+Cochem,50.1469,7.1667,Germany,127,63970
+Boulazac,45.1819,0.7631,France,128,97152
+Vairano Patenora,41.3333,14.1333,Italy,129,45663
+Brioude,45.2942,3.3842,France,130,96956
+Lohne,52.6667,8.2386,Germany,131,35336
+Hannoversch Münden,51.4167,9.65,Germany,132,44330
+Ceglie Messapico,40.65,17.5167,Italy,133,5761
+Bindlach,49.9811,11.6114,Germany,134,57697
+Montalcino,43.0592,11.4892,Italy,135,14379
+Kassel,51.3158,9.4979,Germany,136,64305
+Bruckberg,48.5333,12.0,Germany,137,39292
+Charbonnières-les-Bains,45.7806,4.7464,France,138,29333
+Rodgau,50.0256,8.8841,Germany,139,81576
+Fahrenzhausen,48.35,11.55,Germany,140,76963
+Cattolica,43.9584,12.7386,Italy,141,33227
+Fleury-Mérogis,48.6294,2.3614,France,142,89513
+Schwaigern,49.1333,9.05,Germany,143,87212
+Saint-Alban-Leysse,45.58,5.9581,France,144,82267
+Vöhringen,48.2833,10.0833,Germany,145,37027
+Gangkofen,48.4369,12.5633,Germany,146,33555
+Poppi,43.7358,11.7617,Italy,147,15562
+Ciampino,41.8,12.6,Italy,148,44704
+Teterow,53.7667,12.5667,Germany,149,47002
+Rohrbach,48.6167,11.5667,Germany,150,71061
+Haldensleben,52.2833,11.4167,Germany,151,28020
+Pignola,40.5667,15.7833,Italy,152,74630
+Pfastatt,47.7689,7.3017,France,153,56365
+La Montagne,47.19,-1.6839,France,154,96790
+Saint-Denis-en-Val,47.8772,1.96,France,155,29062
+Naila,50.3299,11.7083,Germany,156,46742
+Coulommiers,48.8156,3.0836,France,157,85371
+Trégueux,48.4906,-2.7381,France,158,46389
+Visselhövede,52.9845,9.5817,Germany,159,92327
+Échirolles,45.1436,5.7183,France,160,66129
+Neuhof,50.4333,9.6167,Germany,161,29790
+Bautzen,51.1814,14.4239,Germany,162,99617
+Tuglie,40.0735,18.0987,Italy,163,9160
+Montichiari,45.4161,10.3917,Italy,164,19217
+Offenburg,48.4708,7.9408,Germany,165,60912
+Capena,42.1403,12.5403,Italy,166,45300
+Hellemmes-Lille,50.6283,3.11,France,167,38154
+Kaufering,48.0833,10.8833,Germany,168,54657
+Bétheny,49.2847,4.0569,France,169,86138
+San Gimignano,43.4677,11.0432,Italy,170,11185
+Ugento,39.9333,18.1667,Italy,171,74318
+Pogliano Milanese,45.5333,9.0,Italy,172,75395
+Garéoult,43.3283,6.0461,France,173,55306
+Fayence,43.6233,6.6939,France,174,64303
+Bockhorn,53.4,8.0167,Germany,175,59168
+Kottmarsdorf,51.0108,14.6558,Germany,176,7548
+Sinsheim,49.25,8.8833,Germany,177,31513
+Saint-Maximin-la-Sainte-Baume,43.4533,5.8619,France,178,68652
+Cernay,47.8067,7.1758,France,179,6085
+Eppelheim,49.4011,8.6297,Germany,180,22946
+Pozzuolo del Friuli,45.9681,13.1969,Italy,181,83652
+Jahnsdorf,50.7456,12.8544,Germany,182,47112
+Viernheim,49.538,8.5792,Germany,183,2838
+Borgo a Mozzano,43.9797,10.5467,Italy,184,31953
+Laterza,40.6333,16.8,Italy,185,89682
+Cavallino,40.3102,18.2022,Italy,186,73669
+Quartu Sant’Elena,39.2291,9.2649,Italy,187,23654
+Mühlhausen,49.2475,8.7239,Germany,188,38193
+Rabastens,43.8222,1.7253,France,189,45959
+Preußisch Oldendorf,52.2833,8.5,Germany,190,34517
+Noicattaro,41.0333,16.9833,Italy,191,11668
+Ebersdorf bei Coburg,50.22,11.0706,Germany,192,64506
+Ronciglione,42.2894,12.2147,Italy,193,85752
+Maisons-Laffitte,48.9469,2.1456,France,194,43304
+Maratea,39.9928,15.7167,Italy,195,6866
+Decize,46.8292,3.4614,France,196,37399
+Pfeffenhausen,48.6667,11.9667,Germany,197,51229
+Saerbeck,52.175,7.6333,Germany,198,32774
+Terzigno,40.8,14.5,Italy,199,35877
+Pamiers,43.1164,1.6108,France,200,65681
+Sovicille,43.2833,11.2333,Italy,201,55003
+Saint-Claude,46.3872,5.8633,France,202,42606
+Rosenfeld,48.2864,8.7242,Germany,203,74626
+Cetraro,39.5,15.95,Italy,204,76810
+Francheville,45.7364,4.7636,France,205,56933
+Ennigerloh,51.8367,8.0256,Germany,206,17323
+Lennestadt,51.1236,8.0681,Germany,207,26148
+Laubach,50.5426,8.9891,Germany,208,91648
+Birkenfeld,49.65,7.1833,Germany,209,45553
+Épernay,49.0403,3.96,France,210,21216
+Wertingen,48.5333,10.6667,Germany,211,34600
+Meldorf,54.0833,9.0667,Germany,212,21437
+Le Bouscat,44.8651,-0.5996,France,213,41735
+Landsberg,48.0528,10.8689,Germany,214,57109
+Westhausen,48.8839,10.1864,Germany,215,92465
+Casciana Terme,43.5689,10.5936,Italy,216,46000
+Saint-Laurent-de-la-Salanque,42.7736,2.9908,France,217,8381
+Diedorf,48.35,10.7667,Germany,218,12858
+Montebelluna,45.7753,12.0389,Italy,219,73410
+Kolbermoor,47.85,12.0667,Germany,220,49776
+Nortorf,54.1667,9.8667,Germany,221,79729
+Eisenach,50.9747,10.3244,Germany,222,12917
+Springe,52.2167,9.55,Germany,223,64974
+Moglia,44.9333,10.9167,Italy,224,72516
+Saint-Jean-Bonnefonds,45.4511,4.4464,France,225,2106
+Otterndorf,53.8081,8.8997,Germany,226,45483
+Simmern,49.9833,7.5167,Germany,227,4081
+Montefiascone,42.5333,12.0333,Italy,228,43930
+Schenefeld,53.6028,9.8233,Germany,229,79374
+Antibes,43.5808,7.1239,France,230,83609
+Firminy,45.3881,4.2872,France,231,17054
+Chambéry,45.57,5.9118,France,232,16500
+Ravenna,44.4161,12.2017,Italy,233,36255
+Estenfeld,49.8281,10.0075,Germany,234,8664
+Camposano,40.95,14.5333,Italy,235,22289
+Usingen,50.334,8.5372,Germany,236,58498
+Sala Baganza,44.7167,10.2333,Italy,237,12545
+Bad Dürrheim,48.0167,8.5333,Germany,238,57256
+Borgosesia,45.7169,8.2764,Italy,239,16588
+Graulhet,43.7608,1.9886,France,240,40177
+Clausthal-Zellerfeld,51.805,10.3356,Germany,241,43259
+Meschede,51.3503,8.2836,Germany,242,17003
+Melilli,37.1833,15.1167,Italy,243,67467
+Drolshagen,51.0333,7.7667,Germany,244,90441
+Mansfeld,51.5942,11.4547,Germany,245,41986
+Falkensee,52.5583,13.0917,Germany,246,4194
+Valence,44.9333,4.8917,France,247,43437
+Rivolta d’Adda,45.4667,9.5167,Italy,248,22626
+Ermont,48.9922,2.2603,France,249,88461
+Moncalieri,45.0,7.6833,Italy,250,26317
+Beelen,51.9292,8.1181,Germany,251,70121
+Montegiorgio,43.1307,13.5371,Italy,252,6060
+Garbsen,52.4183,9.5981,Germany,253,38100
+Hohen Neuendorf,52.6667,13.2831,Germany,254,19330
+Zwiesel,49.0167,13.2333,Germany,255,63468
+Durmersheim,48.9383,8.2769,Germany,256,18725
+Sainte-Adresse,49.5064,0.0833,France,257,75789
+Wathlingen,52.5333,10.15,Germany,258,45267
+Argelès-sur-Mer,42.5461,3.0239,France,259,38717
+Dives-sur-Mer,49.2856,-0.1011,France,260,54685
+Sarreguemines,49.11,7.07,France,261,19573
+Dunkerque,51.0383,2.3775,France,262,84303
+Bresso,45.5333,9.1833,Italy,263,3878
+Aiffres,46.2864,-0.4172,France,264,31479
+Pasewalk,53.5063,13.99,Germany,265,38661
+Bad Zwischenahn,53.1836,8.0097,Germany,266,20733
+Erkelenz,51.08,6.3156,Germany,267,26474
+Cavarzere,45.137,12.0817,Italy,268,26333
+Wernberg-Köblitz,49.5333,12.15,Germany,269,10209
+Crest,44.7283,5.0222,France,270,73900
+Fiano Romano,42.1667,12.6,Italy,271,19883
+Romans-sur-Isère,45.0464,5.0517,France,272,11658
+Saint-Maur-des-Fossés,48.7994,2.4997,France,273,86092
+Villa d’Almè,45.75,9.6167,Italy,274,57223
+Bremerhaven,53.55,8.5833,Germany,275,8230
+La Colle-sur-Loup,43.6864,7.1039,France,276,94138
+Zanè,45.7167,11.4667,Italy,277,55774
+Santa Maria a Vico,41.0333,14.4833,Italy,278,87177
+Monzuno,44.2833,11.2667,Italy,279,36564
+Fontenay-le-Fleury,48.8136,2.0486,France,280,9011
+Altötting,48.2264,12.6759,Germany,281,48397
+Jouy-le-Moutier,49.0108,2.0386,France,282,49909
+Plouay,47.9147,-3.3353,France,283,66763
+Fontainebleau,48.4089,2.7017,France,284,16298
+Montopoli in Val d’Arno,43.6744,10.7503,Italy,285,32098
+Trith-Saint-Léger,50.3256,3.4858,France,286,72536
+Meuselwitz,51.05,12.3,Germany,287,36070
+Acri,39.5,16.3833,Italy,288,83594
+Lübben (Spreewald),51.95,13.9,Germany,289,75064
+Muzillac,47.5531,-2.4817,France,290,50426
+Ensisheim,47.8656,7.3525,France,291,46088
+Bischheim,48.6139,7.7519,France,292,68166
+Lambesc,43.6539,5.2619,France,293,16222
+Furiani,42.6567,9.4331,France,294,31138
+Roßtal,49.4,10.8833,Germany,295,13406
+Città di Castello,43.4574,12.2403,Italy,296,55061
+Hannover,52.3744,9.7386,Germany,297,8990
+Kerpen,50.8719,6.6961,Germany,298,59356
+Sulz am Neckar,48.3628,8.6317,Germany,299,93881
+Tirano,46.2164,10.1689,Italy,300,56396
+Crosne,48.7147,2.4611,France,301,35292
+Capo d’Orlando,38.15,14.7333,Italy,302,4928
+Cassis,43.2156,5.5372,France,303,52946
+Campofelice di Roccella,37.9833,13.8833,Italy,304,11910
+Mazara del Vallo,37.6517,12.5875,Italy,305,35578
+Condofuri,38.0,15.8667,Italy,306,62192
+Juvisy-sur-Orge,48.6883,2.3775,France,307,47657
+Porto San Giorgio,43.1848,13.7955,Italy,308,98827
+Sainte-Foy-lès-Lyon,45.73,4.8,France,309,77891
+Domont,49.0275,2.3267,France,310,65721
+Heusweiler,49.3375,6.9301,Germany,311,74318
+Leck,54.7744,8.9736,Germany,312,70001
+Pont-à-Mousson,48.9044,6.0542,France,313,89403
+Haselünne,52.6667,7.4667,Germany,314,97162
+Guichen,47.9675,-1.795,France,315,10567
+Haßfurt,50.0353,10.5123,Germany,316,72348
+Le Pont-de-Claix,45.1231,5.6981,France,317,96272
+Portet-sur-Garonne,43.5219,1.4061,France,318,24437
+Serradifalco,37.4538,13.8805,Italy,319,4398
+Landriano,45.3167,9.2667,Italy,320,9251
+Tombolo,45.6469,11.8281,Italy,321,66344
+Marino,41.7667,12.6667,Italy,322,8010
+Motta di Livenza,45.7797,12.6086,Italy,323,92411
+Steyerberg,52.5703,9.0236,Germany,324,85530
+Erdweg,48.3167,11.3,Germany,325,1647
+Benevento,41.1333,14.7833,Italy,326,89398
+Couzeix,45.8761,1.2386,France,327,93096
+Casièr,45.6436,12.2953,Italy,328,69980
+Lübz,53.4631,12.0283,Germany,329,12966
+Wetzlar,50.5667,8.5,Germany,330,22575
+Gradisca d’Isonzo,45.8833,13.5,Italy,331,73814
+Berg,47.9675,11.3558,Germany,332,52675
+Friedrichroda,50.8575,10.5651,Germany,333,92819
+Bad Rappenau,49.2389,9.1028,Germany,334,28971
+Lambersart,50.65,3.025,France,335,65624
+Oliena,40.271,9.4028,Italy,336,3707
+Hofbieber,50.5863,9.8353,Germany,337,96941
+Nanterre,48.8988,2.1969,France,338,97885
+Traben-Trarbach,49.9511,7.1167,Germany,339,40406
+Vöhl,51.2,8.9333,Germany,340,46649
+Pulheim,51.0,6.8,Germany,341,49760
+Vannes,47.6559,-2.7603,France,342,86308
+Gavirate,45.85,8.7167,Italy,343,67306
+Holdorf,52.5883,8.1286,Germany,344,71475
+Saint-Pierre-du-Mont,43.8825,-0.5194,France,345,70887
+Krefeld,51.3333,6.5667,Germany,346,93781
+Agerola,40.6333,14.55,Italy,347,61118
+Sovere,45.8167,10.0333,Italy,348,21695
+Lemwerder,53.1667,8.6167,Germany,349,70672
+Hövelhof,51.8167,8.65,Germany,350,72656
+Brétigny-sur-Orge,48.6114,2.3059,France,351,89602
+Bourg-Saint-Maurice,45.6167,6.7686,France,352,56544
+Salbris,47.4253,2.0519,France,353,9687
+Châtillon-sur-Seine,47.8583,4.5742,France,354,98059
+Pesaro,43.9102,12.9133,Italy,355,6690
+Herne,51.5426,7.219,Germany,356,79322
+Vern-sur-Seiche,48.0447,-1.6003,France,357,94489
+Candiolo,44.9667,7.6,Italy,358,71912
+Pratovecchio,43.8015,11.7067,Italy,359,54090
+Sehma,50.5167,12.9833,Germany,360,21373
+Ober-Ramstadt,49.8333,8.75,Germany,361,1452
+Divion,50.4722,2.5014,France,362,57064
+Massa Lombarda,44.45,11.8167,Italy,363,92134
+Werne an der Lippe,51.6667,7.6167,Germany,364,67070
+Grottaglie,40.5333,17.4333,Italy,365,73019
+Cinisello Balsamo,45.55,9.2167,Italy,366,69847
+Grimma,51.2386,12.7253,Germany,367,10220
+Wietze,52.65,9.8333,Germany,368,39694
+Buchloe,48.0375,10.725,Germany,369,61313
+Glauchau,50.8233,12.5444,Germany,370,75595
+Oberhaching,48.0167,11.5833,Germany,371,57122
+Igny,48.7422,2.2261,France,372,30346
+Karstädt,53.1497,11.75,Germany,373,56472
+Spoleto,42.7333,12.7333,Italy,374,55008
+Stein bei Nürnberg,49.4167,11.0167,Germany,375,57477
+Alfeld,51.9886,9.8269,Germany,376,16516
+San Benigno Canavese,45.25,7.7833,Italy,377,29650
+Bischberg,49.9,10.8167,Germany,378,41689
+Esine,45.9264,10.2517,Italy,379,18997
+Raubling,47.7881,12.1047,Germany,380,40652
+Hénin-Beaumont,50.4217,2.9508,France,381,86630
+Bad König,49.7413,9.0071,Germany,382,79351
+Villa Bartolomea,45.1583,11.3531,Italy,383,43824
+Le Creusot,46.8014,4.4411,France,384,1420
+Carmignano,43.8103,11.0149,Italy,385,23961
+Grigny,45.6083,4.7897,France,386,53782
+Limay,48.9933,1.7358,France,387,10635
+Brusciano,40.9224,14.4239,Italy,388,10913
+Montesarchio,41.0667,14.6333,Italy,389,5249
+Lavis,46.139,11.1123,Italy,390,42192
+Tavagnacco,46.1333,13.2167,Italy,391,81926
+Bergneustadt,51.0333,7.65,Germany,392,34040
+Soresina,45.2865,9.857,Italy,393,68401
+Bürstadt,49.6414,8.4546,Germany,394,87729
+Angers,47.4736,-0.5542,France,395,17742
+Calais,50.9481,1.8564,France,396,11830
+Ambazac,45.9578,1.4,France,397,91768
+Herten,51.6,7.1333,Germany,398,93782
+Plabennec,48.5019,-4.4261,France,399,39476
+Taucha,51.38,12.4936,Germany,400,92096
+Turin,45.0667,7.7,Italy,401,18801
+Allensbach,47.7153,9.0714,Germany,402,52109
+Recale,41.05,14.3,Italy,403,23158
+Ettenheim,48.2556,7.8119,Germany,404,39987
+Battenberg,51.0167,8.65,Germany,405,12696
+Sillingy,45.9458,6.0353,France,406,41931
+Montemurlo,43.9278,11.04,Italy,407,6305
+Cappelle-la-Grande,50.9983,2.3642,France,408,44559
+Tiefenbach,48.6244,13.3989,Germany,409,55035
+Canicattini Bagni,37.0333,15.0667,Italy,410,47302
+Saint-Apollinaire,47.3317,5.0842,France,411,42665
+Quinto Vicentino,45.5667,11.6167,Italy,412,12280
+Waldfeucht,51.0667,5.9831,Germany,413,35535
+Villafranca Tirrena,38.2333,15.4333,Italy,414,85267
+Nole,45.25,7.5833,Italy,415,38698
+Sandhausen,49.3439,8.6581,Germany,416,98906
+Schönenberg-Kübelberg,49.4106,7.3767,Germany,417,48081
+Pfungstadt,49.8056,8.6044,Germany,418,34322
+Eslohe,51.25,8.1667,Germany,419,35803
+Bléré,47.3253,0.9897,France,420,68959
+Magenta,45.4603,8.8766,Italy,421,30718
+Dorgali,40.2916,9.5876,Italy,422,9316
+Maisenhausen,50.0172,8.9915,Germany,423,77144
+Vanzago,45.5333,9.0,Italy,424,60237
+Lambres-lès-Douai,50.3531,3.0678,France,425,21064
+Balve,51.3333,7.8667,Germany,426,46931
+Caluire-et-Cuire,45.7953,4.8472,France,427,11324
+Marly-le-Roi,48.8669,2.0942,France,428,74486
+Saint-Paul-Trois-Châteaux,44.3489,4.7686,France,429,78408
+Bietigheim-Bissingen,48.9667,9.1333,Germany,430,84885
+Saarbrücken,49.2333,7.0,Germany,431,97748
+Oedheim,49.2333,9.25,Germany,432,77681
+Locate di Triulzi,45.35,9.2167,Italy,433,94568
+Mallersdorf-Pfaffenberg,48.7667,12.2333,Germany,434,38131
+Noventa di Piave,45.6667,12.5333,Italy,435,95251
+Velden,48.3667,12.25,Germany,436,97118
+Lehre,52.3167,10.6667,Germany,437,25884
+Gotha,50.9489,10.7183,Germany,438,1102
+Saint-Jean-d’Angély,45.9442,-0.5211,France,439,9149
+Kirn,49.7881,7.4572,Germany,440,87135
+Wirges,50.4742,7.7953,Germany,441,59962
+Minden,52.2883,8.9167,Germany,442,75626
+Paese,45.6667,12.15,Italy,443,43070
+Lézignan-Corbières,43.2006,2.7578,France,444,27516
+Malnate,45.8,8.8833,Italy,445,47299
+Villadose,45.0667,11.9,Italy,446,99199
+Zossen,52.2167,13.4497,Germany,447,71436
+Torre Santa Susanna,40.4667,17.7333,Italy,448,26687
+Medicina,44.4833,11.6333,Italy,449,71072
+Woltersdorf,52.4478,13.7572,Germany,450,27677
+Birkenfeld,48.8697,8.6361,Germany,451,82344
+Lünen,51.6167,7.5167,Germany,452,15383
+Auxerre,47.7986,3.5672,France,453,23332
+Calolziocorte,45.8,9.4333,Italy,454,31648
+Vetschau/Spreewald,51.7831,14.0667,Germany,455,12546
+Baesweiler,50.9,6.1833,Germany,456,7292
+Olevano sul Tusciano,40.65,15.0167,Italy,457,48955
+Crailsheim,49.1347,10.0706,Germany,458,43267
+Biarritz,43.48,-1.56,France,459,32992
+Chambourcy,48.9061,2.0403,France,460,56305
+Spinea,45.4931,12.1606,Italy,461,61819
+Montaigu,46.9728,-1.31,France,462,42163
+Corropoli,42.8333,13.8333,Italy,463,82397
+Lichtenstein,50.7564,12.6317,Germany,464,17385
+Söhlde,52.2,10.2333,Germany,465,23334
+Grünwald,48.0483,11.5317,Germany,466,34086
+Achim,53.013,9.033,Germany,467,4227
+Weilheim,47.8333,11.1333,Germany,468,44319
+Racalmuto,37.4083,13.7347,Italy,469,32738
+Castrovillari,39.8167,16.2,Italy,470,42500
+Gottolengo,45.2928,10.2734,Italy,471,18299
+Lindenfels,49.6849,8.7803,Germany,472,89651
+Leonforte,37.65,14.4,Italy,473,60449
+Marktoberdorf,47.7667,10.6167,Germany,474,43406
+Ochsenfurt,49.6711,10.0498,Germany,475,41139
+Groß Kreutz,52.3997,12.7831,Germany,476,83135
+San Sperate,39.3575,9.0083,Italy,477,28645
+Villeneuve-lès-Maguelone,43.5322,3.8608,France,478,88002
+Compiègne,49.4149,2.8231,France,479,75532
+Weißenfels,51.2,11.9667,Germany,480,29750
+Saint-Junien,45.8872,0.9011,France,481,6695
+Löningen,52.736,7.7579,Germany,482,31315
+Canteleu,49.4511,1.0361,France,483,96192
+Seelze,52.3961,9.5981,Germany,484,55536
+Casalbordino,42.15,14.5833,Italy,485,99262
+Sestri Levante,44.2733,9.3932,Italy,486,23443
+Rovereto,45.8833,11.0342,Italy,487,87497
+Kulmbach,50.1,11.4333,Germany,488,93888
+Hennebont,47.8042,-3.2789,France,489,31205
+Lauterbach,50.6378,9.3944,Germany,490,61916
+Porto Tolle,44.95,12.3167,Italy,491,71414
+Borgo Val di Taro,44.4833,9.7667,Italy,492,7131
+Ciboure,43.3853,-1.6678,France,493,50546
+Tournan-en-Brie,48.7406,2.7681,France,494,91053
+Le Rheu,48.1019,-1.7956,France,495,34916
+Carquefou,47.2969,-1.4928,France,496,10542
+Schkopau,51.3833,11.9667,Germany,497,70056
+Altmannstein,48.9,11.65,Germany,498,91726
+Portoscuso,39.2049,8.3805,Italy,499,27495
+Schortens,53.5333,7.95,Germany,500,19763
+Tergnier,49.6558,3.2872,France,501,14470
+Großmehring,48.7667,11.5331,Germany,502,61748
+Pélissanne,43.6314,5.1506,France,503,58366
+Saint-Jean-d’Illac,44.8097,-0.7836,France,504,56002
+Sögel,52.85,7.5167,Germany,505,63813
+Biesenthal,52.7667,13.6331,Germany,506,41757
+Blankenfelde,52.35,13.4,Germany,507,98090
+Ostuni,40.7322,17.5778,Italy,508,88611
+Auxonne,47.1939,5.3878,France,509,2562
+Challans,46.8467,-1.8781,France,510,43335
+Kevelaer,51.5833,6.25,Germany,511,17785
+Meerane,50.8519,12.4636,Germany,512,16649
+Chantilly,49.1869,2.4608,France,513,96989
+Montélimar,44.5581,4.7508,France,514,12407
+Manoppello,42.2578,14.0597,Italy,515,3207
+Lodi,45.3167,9.5,Italy,516,19981
+Parchim,53.4167,11.8333,Germany,517,21566
+Sacrofano,42.1,12.45,Italy,518,70951
+Patti,38.1333,14.9667,Italy,519,73084
+Hittfeld,53.3856,9.9844,Germany,520,89983
+Château-Gontier,47.8286,-0.7028,France,521,55278
+Monselice,45.2333,11.75,Italy,522,19515
+Oranienbaum,51.8036,12.4064,Germany,523,38689
+Langenzenn,49.4944,10.7947,Germany,524,80950
+Mouans-Sartoux,43.62,6.9719,France,525,94183
+Eaunes,43.4217,1.3544,France,526,25155
+Menucourt,49.0272,1.9814,France,527,23438
+Brignoles,43.4058,6.0617,France,528,22982
+Seloncourt,47.4606,6.8583,France,529,69405
+Castelleone,45.2958,9.7609,Italy,530,25759
+Cordenons,45.9833,12.7,Italy,531,79970
+Colleferro,41.7287,13.0031,Italy,532,52243
+Piacenza,45.05,9.7,Italy,533,18293
+La Tronche,45.2064,5.7403,France,534,36003
+Haßloch,49.35,8.25,Germany,535,47188
+Tangerhütte,52.4333,11.8,Germany,536,34457
+Grömitz,54.1536,10.9575,Germany,537,3967
+Saint-Denis-de-Pile,44.9917,-0.2061,France,538,90293
+Othis,49.0764,2.6764,France,539,29259
+Lèves,48.4689,1.4814,France,540,96557
+Revel,43.4586,2.0042,France,541,43512
+Leno,45.3703,10.2167,Italy,542,13061
+Santeramo in Colle,40.8,16.7667,Italy,543,87007
+Mönchengladbach,51.2,6.4333,Germany,544,58935
+Cernusco sul Naviglio,45.5167,9.3333,Italy,545,93682
+Billerbeck,51.9792,7.295,Germany,546,88957
+Bad Wurzach,47.9094,9.8994,Germany,547,45735
+Solarino,37.1,15.1167,Italy,548,71379
+Werneck,49.9833,10.1,Germany,549,9671
+Trégunc,47.8558,-3.8519,France,550,59757
+Leisnig,51.1667,12.9167,Germany,551,84062
+Vaprio d’Adda,45.5667,9.5333,Italy,552,13452
+Wachtendonk,51.4092,6.3378,Germany,553,64782
+Tortora,39.9413,15.8052,Italy,554,24470
+Siena,43.3183,11.3314,Italy,555,96847
+Riedering,47.8333,12.2,Germany,556,50292
+Pfalzgrafenweiler,48.5283,8.5678,Germany,557,36527
+Bad Soden am Taunus,50.1424,8.4997,Germany,558,77015
+Origgio,45.5969,9.0183,Italy,559,66248
+Taurianova,38.35,16.0167,Italy,560,79394
+Capurso,41.05,16.9167,Italy,561,68326
+Bois-Colombes,48.9175,2.2683,France,562,22956
+Rheinbach,50.6256,6.9491,Germany,563,43464
+Holzkirchen,47.8833,11.7,Germany,564,85308
+Mulhouse,47.75,7.34,France,565,49271
+Ploudalmézeau,48.5403,-4.6575,France,566,4741
+La Rochelle,46.1591,-1.1517,France,567,86213
+Breckerfeld,51.2611,7.4667,Germany,568,30905
+Zeven,53.2969,9.2789,Germany,569,95219
+La Mulatière,45.7281,4.8122,France,570,45581
+Obrigheim,49.3522,9.0928,Germany,571,25658
+Forino,40.8636,14.7369,Italy,572,44919
+Scicli,36.7914,14.7025,Italy,573,97286
+Marly,50.3489,3.5442,France,574,64965
+Ala,45.75,11.0,Italy,575,3503
+Nierstein,49.8694,8.3375,Germany,576,76257
+Motta San Giovanni,38.0,15.7,Italy,577,79880
+Saint-Cyr-l’École,48.8003,2.0625,France,578,35621
+Serris,48.8564,2.7861,France,579,70305
+Beaucourt,47.4861,6.9253,France,580,98750
+Saint-Cyprien,42.6181,3.0064,France,581,26510
+Barentin,49.5444,0.9536,France,582,43189
+Montesano sulla Marcellana,40.2833,15.7,Italy,583,92215
+Sceaux,48.7786,2.2906,France,584,2423
+Arnstedt,51.6833,11.4667,Germany,585,56648
+San Canzian d’lsonzo,45.8,13.4667,Italy,586,60779
+Tourcoing,50.7239,3.1612,France,587,59580
+Buttstädt,51.1167,11.4167,Germany,588,80535
+Bethoncourt,47.5344,6.8039,France,589,11052
+Thann,47.8067,7.1044,France,590,30465
+Sannicola,40.1,18.0667,Italy,591,72105
+Lazise,45.5053,10.7325,Italy,592,99495
+Altlandsberg,52.5667,13.7331,Germany,593,68146
+Offenbach an der Queich,49.1977,8.1974,Germany,594,13380
+Saint-André-de-Cubzac,44.9947,-0.4458,France,595,15912
+Schulzendorf,52.3667,13.5831,Germany,596,99548
+Rosignano Marittimo,43.4,10.4667,Italy,597,82190
+Schlangenbad,50.0929,8.1019,Germany,598,61707
+Garges-lès-Gonesse,48.9728,2.4008,France,599,9286
+Corigliano Calabro,39.6,16.5167,Italy,600,98369
+Marienberg,50.6508,13.1647,Germany,601,94638
+Oberkochen,48.7839,10.1053,Germany,602,98816
+Le Perray-en-Yvelines,48.6942,1.8542,France,603,62964
+Sauerlach,47.9667,11.65,Germany,604,19436
+Capannori,43.8756,10.5736,Italy,605,12759
+San Cesario sul Panaro,44.5667,11.0333,Italy,606,33437
+Templeuve,50.5267,3.175,France,607,33381
+Kall,50.5497,6.5497,Germany,608,68946
+Azzano Decimo,45.8833,12.7167,Italy,609,1263
+La Chapelle-sur-Erdre,47.2989,-1.5528,France,610,85514
+Wurzen,51.3667,12.7167,Germany,611,89257
+Les Herbiers,46.8711,-1.0136,France,612,54431
+Ponte Buggianese,43.8408,10.7475,Italy,613,51513
+Argentan,48.7444,-0.0203,France,614,10239
+Galliate,45.4833,8.7,Italy,615,37287
+Locorotondo,40.75,17.3167,Italy,616,35820
+Ouistreham,49.2792,-0.2583,France,617,45078
+Mayen,50.3333,7.2167,Germany,618,39575
+Courthézon,44.0875,4.8842,France,619,17644
+Sarzeau,47.5272,-2.7697,France,620,27496
+Avola,36.9167,15.1333,Italy,621,21004
+Baden-Baden,48.7619,8.2408,Germany,622,49989
+Gruissan,43.1069,3.0883,France,623,73724
+Busseto,44.9794,10.0433,Italy,624,88742
+Duisburg,51.4322,6.7611,Germany,625,26226
+Oleggio,45.6,8.6333,Italy,626,75416
+Versmold,52.0436,8.15,Germany,627,3858
+Fossombrone,43.689,12.8061,Italy,628,15138
+Stadtallendorf,50.8333,9.0167,Germany,629,23656
+Longiano,44.0833,12.3333,Italy,630,26670
+Kirchheim bei München,48.1766,11.7556,Germany,631,23366
+La Ville-aux-Dames,47.3958,0.7644,France,632,66067
+Kumhausen,48.5,12.1667,Germany,633,57788
+Chantonnay,46.6869,-1.0506,France,634,68006
+Kemnath,49.8667,11.8833,Germany,635,12812
+Étréchy,48.4931,2.1911,France,636,68037
+Nackenheim,49.9153,8.3389,Germany,637,69633
+Ragusa,36.925,14.7306,Italy,638,47824
+Nünchritz,51.2833,13.4167,Germany,639,11325
+Crégy-lès-Meaux,48.9786,2.8783,France,640,52139
+Viggiù,45.8667,8.9,Italy,641,18943
+Arzberg,50.0572,12.1864,Germany,642,7997
+Mittenwald,47.4167,11.25,Germany,643,71975
+Kirchentellinsfurt,48.5311,9.1483,Germany,644,89592
+Arcore,45.6333,9.3167,Italy,645,22875
+San Sebastiano al Vesuvio,40.8333,14.3667,Italy,646,42147
+Moëlan-sur-Mer,47.8142,-3.6281,France,647,40420
+Bernay,49.0886,0.5983,France,648,15091
+Maromme,49.4819,1.0419,France,649,1070
+Chagny,46.9106,4.7533,France,650,37691
+Wachtberg,50.6242,7.1322,Germany,651,92893
+Bareggio,45.4667,8.9833,Italy,652,8076
+Serra Riccò,44.5078,8.936,Italy,653,54021
+Enger,52.1333,8.5667,Germany,654,57224
+Lagord,46.1894,-1.1542,France,655,43623
+Alençon,48.4306,0.0931,France,656,32502
+Floridia,37.0833,15.15,Italy,657,24930
+Hilzingen,47.7653,8.7844,Germany,658,52222
+Furth im Wald,49.3097,12.84,Germany,659,13778
+Catanzaro,38.91,16.5875,Italy,660,88861
+Mourenx,43.3706,-0.6294,France,661,9057
+Teisendorf,47.85,12.8167,Germany,662,79334
+Böblingen,48.6833,9.0,Germany,663,11000
+Saint-Jacques-de-la-Lande,48.0903,-1.6956,France,664,64249
+Kenzingen,48.1917,7.7683,Germany,665,7365
+Castiglione dei Pepoli,44.15,11.15,Italy,666,98544
+Weissach,48.8481,8.9203,Germany,667,34368
+Fabriano,43.3386,12.9085,Italy,668,5471
+Altenkunstadt,50.1167,11.25,Germany,669,65627
+Ballan-Miré,47.3417,0.6131,France,670,84261
+Grünstadt,49.5692,8.1681,Germany,671,78151
+Zeulenroda,50.6333,11.9667,Germany,672,69580
+Longuyon,49.4469,5.6006,France,673,81639
+Chauny,49.6156,3.2192,France,674,27623
+Castelnovo di Sotto,44.8167,10.5667,Italy,675,87024
+Deizisau,48.7133,9.3892,Germany,676,86116
+Cambiago,45.5667,9.4167,Italy,677,81878
+Bosa,40.299,8.4978,Italy,678,6113
+Sucy-en-Brie,48.7697,2.5228,France,679,93522
+Mascali,37.7578,15.1958,Italy,680,81470
+Zero Branco,45.6,12.1667,Italy,681,89685
+Pontchâteau,47.4369,-2.0878,France,682,28570
+Mezzolombardo,46.2097,11.0978,Italy,683,70563
+Horstmar,52.0806,7.3083,Germany,684,86394
+Falkenstein,50.4667,12.3667,Germany,685,53197
+Quedlinburg,51.7917,11.1472,Germany,686,61033
+Amantea,39.1333,16.0667,Italy,687,92249
+Vidauban,43.4272,6.4319,France,688,11381
+Teuchern,51.1167,12.0167,Germany,689,76093
+Trilport,48.9572,2.9492,France,690,45421
+Neckargemünd,49.3939,8.7975,Germany,691,39236
+Uhingen,48.7058,9.5919,Germany,692,93194
+Avigliana,45.0794,7.3961,Italy,693,41903
+Albert,50.0019,2.6522,France,694,26668
+Tassin-la-Demi-Lune,45.764,4.78,France,695,18834
+Thalmässing,49.0833,11.2167,Germany,696,74469
+Mansuè,45.8232,12.5356,Italy,697,68914
+Goussainville,49.0325,2.4747,France,698,99313
+Rivignano,45.8797,13.0425,Italy,699,78702
+Münzenberg,50.4533,8.7761,Germany,700,76349
+Potsdam,52.4,13.0667,Germany,701,61255
+Parigné-l’Évêque,47.9364,0.3644,France,702,65222
+Marignane,43.416,5.2145,France,703,91603
+Narni,42.5167,12.5167,Italy,704,95597
+Monte San Pietro,44.4578,11.199,Italy,705,29769
+Gemona del Friuli,46.2741,13.1224,Italy,706,97853
+Zogno,45.7939,9.6656,Italy,707,51621
+Saronno,45.6255,9.037,Italy,708,68855
+Nueil-les-Aubiers,46.9372,-0.59,France,709,45461
+Gersthofen,48.4167,10.8667,Germany,710,15593
+Asola,45.2167,10.4167,Italy,711,46715
+Casorate Primo,45.3167,9.0167,Italy,712,31223
+Montataire,49.2556,2.4383,France,713,37127
+Samarate,45.6167,8.7833,Italy,714,8916
+Agde,43.3108,3.4758,France,715,16896
+Carrara,44.0833,10.1,Italy,716,28787
+Herborn,50.6825,8.3061,Germany,717,63029
+Levanto,44.1697,9.6122,Italy,718,67736
+Bingen am Rhein,49.9669,7.895,Germany,719,75738
+Lucera,41.5,15.3333,Italy,720,21834
+Sant’Egidio alla Vibrata,42.8333,13.7167,Italy,721,66816
+Nideggen,50.7,6.4833,Germany,722,56041
+Nußloch,49.3236,8.6939,Germany,723,85245
+Locmaria-Plouzané,48.3747,-4.6436,France,724,78572
+Pouzauges,46.7822,-0.8372,France,725,87528
+Bad Krozingen,47.9181,7.7025,Germany,726,4970
+Saluzzo,44.6453,7.4906,Italy,727,52425
+Lorsch,49.6539,8.5675,Germany,728,54371
+Aubergenville,48.9583,1.855,France,729,99658
+Friedeburg,53.45,7.8333,Germany,730,95362
+Hallbergmoos,48.3333,11.75,Germany,731,31226
+Francavilla al Mare,42.4181,14.2919,Italy,732,73506
+Caraglio,44.4167,7.4333,Italy,733,87704
+Gütersloh,51.9,8.3833,Germany,734,70272
+Remanzacco,46.0833,13.3167,Italy,735,87543
+Pilsting,48.7,12.65,Germany,736,59330
+Usmate Velate,45.65,9.35,Italy,737,53418
+Gonesse,48.9875,2.4494,France,738,6280
+Adria,45.05,12.05,Italy,739,55879
+Simbach am Inn,48.2656,13.0231,Germany,740,38655
+Haiterbach,48.5244,8.6503,Germany,741,26520
+Schöppingen,52.1,7.2331,Germany,742,17906
+San Giovanni Valdarno,43.5644,11.5328,Italy,743,57026
+Vichy,46.1278,3.4267,France,744,42449
+Aniche,50.33,3.2511,France,745,13087
+Valentigney,47.4625,6.8322,France,746,8581
+Todi,42.7833,12.4167,Italy,747,87909
+Altdorf,48.5667,12.1167,Germany,748,16219
+Alezio,40.0667,18.05,Italy,749,82468
+Poisy,45.9222,6.0631,France,750,58932
+Sermide,45.0035,11.2929,Italy,751,89100
+Meerbusch,51.2667,6.6667,Germany,752,10541
+Saint-Jean-de-Maurienne,45.2767,6.345,France,753,4566
+Gioiosa Marea,38.1667,14.9,Italy,754,72082
+Narbonne,43.1836,3.0042,France,755,92695
+Gioia Tauro,38.4333,15.9,Italy,756,46012
+Massa,43.9167,10.75,Italy,757,85163
+Schmalkalden,50.7167,10.45,Germany,758,29216
+Freising,48.4028,11.7489,Germany,759,20143
+Münsingen,48.4128,9.4953,Germany,760,78261
+Blainville-sur-Orne,49.2289,-0.3,France,761,70398
+San Giuliano Terme,43.7625,10.4414,Italy,762,10403
+Brandis,51.3347,12.6089,Germany,763,62349
+Boretto,44.9,10.55,Italy,764,63953
+Dippoldiswalde,50.8933,13.6667,Germany,765,92926
+Neuville-lès-Dieppe,49.9267,1.1014,France,766,16847
+Rive-de-Gier,45.5294,4.6169,France,767,77285
+Montluçon,46.3408,2.6033,France,768,98447
+La Ville-du-Bois,48.6606,2.2692,France,769,7239
+Varel,53.3969,8.1361,Germany,770,94984
+La Ciotat,43.1769,5.6086,France,771,87406
+Halver,51.1834,7.5027,Germany,772,10587
+Castenedolo,45.4704,10.2967,Italy,773,28488
+Iffezheim,48.8206,8.1422,Germany,774,49614
+Oppenheim,49.8556,8.3603,Germany,775,89656
+Castellamonte,45.3819,7.7106,Italy,776,72914
+Rehlingen-Siersburg,49.3686,6.6786,Germany,777,41969
+Mende,44.5183,3.5006,France,778,78758
+San Casciano in Val di Pesa,43.6569,11.1858,Italy,779,5111
+Au in der Hallertau,48.5575,11.7417,Germany,780,53569
+Rodenberg,52.3128,9.3594,Germany,781,75109
+Ustaritz,43.3994,-1.4564,France,782,31495
+Villeparisis,48.9503,2.6025,France,783,82788
+Saalfeld,50.6506,11.3542,Germany,784,52205
+Sénas,43.7444,5.0786,France,785,85088
+La Chapelle-Basse-Mer,47.2717,-1.3381,France,786,74941
+Brive-la-Gaillarde,45.1583,1.5321,France,787,40102
+Mutzig,48.5386,7.4542,France,788,3804
+Borgosatollo,45.4761,10.24,Italy,789,85875
+Tostedt,53.2833,9.7167,Germany,790,56964
+Saint-Memmie,48.9531,4.3831,France,791,31842
+Trèbes,43.2097,2.4414,France,792,44441
+Oldenburg in Holstein,54.2922,10.8867,Germany,793,22017
+Imperia,43.8865,8.0297,Italy,794,37914
+Épône,48.9558,1.8153,France,795,84013
+San Marzano sul Sarno,40.7697,14.5947,Italy,796,61944
+Kreuztal,50.962,8.0064,Germany,797,84966
+Castel San Giorgio,40.7833,14.7,Italy,798,50611
+Spilimbergo,46.1114,12.9017,Italy,799,22471
+Obersontheim,49.0578,9.8967,Germany,800,81574
+Mittegroßefehn,53.3833,7.5833,Germany,801,56508
+Gladenbach,50.7681,8.5828,Germany,802,87241
+Campomarino,41.9567,15.0344,Italy,803,70190
+Groitzsch,51.1556,12.2806,Germany,804,44403
+Craponne,45.7453,4.7233,France,805,11921
+Saint-Péray,44.9486,4.845,France,806,19613
+Roncoferraro,45.1342,10.9524,Italy,807,67546
+Cerro Maggiore,45.6,8.95,Italy,808,49408
+Terni,42.5667,12.65,Italy,809,9337
+Nova Siri,40.15,16.5333,Italy,810,94331
+Hochheim am Main,50.0108,8.3508,Germany,811,25479
+Fockbek,54.305,9.6008,Germany,812,73581
+Torcy,48.8502,2.6508,France,813,81789
+Bad Münder am Deister,52.1992,9.4653,Germany,814,87931
+Lacanau,44.9792,-1.0794,France,815,80074
+Bagnères-de-Bigorre,43.0642,0.1497,France,816,21799
+Saint-Chamas,43.5503,5.0347,France,817,35862
+Gomaringen,48.4519,9.0997,Germany,818,79469
+Edingerhof,49.4483,8.6121,Germany,819,34074
+Levico Terme,46.0167,11.3,Italy,820,82626
+Nordstemmen,52.1605,9.7839,Germany,821,88186
+Vignola,44.4808,11.0022,Italy,822,32233
+Ergué-Gabéric,47.9961,-4.0225,France,823,9200
+Itzehoe,53.925,9.5164,Germany,824,56349
+Aulnay-sous-Bois,48.9386,2.4906,France,825,68278
+Greiz,50.6547,12.1997,Germany,826,64295
+Épinal,48.1744,6.4512,France,827,94642
+Borgo,42.5539,9.4275,France,828,11477
+Hambergen,53.3071,8.8264,Germany,829,63864
+Geislingen,48.2875,8.8125,Germany,830,55602
+Erquinghem-Lys,50.6756,2.8475,France,831,86199
+Bobenheim-Roxheim,49.5839,8.3611,Germany,832,90749
+Flein,49.1,9.2167,Germany,833,50028
+Braunschweig,52.2692,10.5211,Germany,834,80367
+Soncino,45.4,9.8667,Italy,835,6037
+Grünheide,52.4167,13.8167,Germany,836,23776
+Teutschenthal,51.45,11.8,Germany,837,39293
+Königsee,50.6613,11.0974,Germany,838,80534
+Lariano,41.7333,12.8333,Italy,839,73295
+Coudekerque-Branche,51.0253,2.3917,France,840,54292
+Montargis,47.9969,2.7325,France,841,31024
+Chennevières-sur-Marne,48.7983,2.5339,France,842,11956
+Neu-Anspach,50.3003,8.5072,Germany,843,55416
+Rheurdt,51.4667,6.4667,Germany,844,76914
+Petite-Rosselle,49.2117,6.8575,France,845,87188
+Hünfeld,50.6667,9.7667,Germany,846,38914
+Waldkirchen,48.7306,13.6011,Germany,847,38154
+Cremona,45.1333,10.0333,Italy,848,18394
+Artern,51.3667,11.3,Germany,849,20392
+Le Puy-en-Velay,45.0433,3.885,France,850,9069
+Burkardroth,50.2719,9.9894,Germany,851,79523
+Nidderau,50.25,8.9,Germany,852,67874
+Dießen am Ammersee,47.95,11.1,Germany,853,66790
+Bruchmühlbach-Miesau,49.3861,7.4408,Germany,854,71471
+Torreglia,45.3333,11.7333,Italy,855,61191
+Prades-le-Lez,43.6989,3.8647,France,856,46760
+Ferrière-la-Grande,50.255,3.9928,France,857,65522
+Rathenow,52.6,12.3333,Germany,858,70950
+Hemhofen,49.6831,10.9331,Germany,859,7273
+Wendlingen am Neckar,48.6747,9.3817,Germany,860,24682
+Port-la-Nouvelle,43.0206,3.0433,France,861,23758
+Leporano,40.3822,17.3343,Italy,862,33972
+Mariglianella,40.9167,14.4333,Italy,863,90101
+Schwabhausen bei Dachau,48.2833,11.3333,Germany,864,10005
+Ottaviano,40.85,14.4775,Italy,865,73746
+Neustrelitz,53.3647,13.0636,Germany,866,44495
+Finale Emilia,44.8319,11.2957,Italy,867,93024
+Champigneulles,48.7336,6.1644,France,868,3055
+Castellanza,45.6167,8.9,Italy,869,96223
+Caorle,45.6003,12.8876,Italy,870,33167
+Gattinara,45.6167,8.3667,Italy,871,85119
+Beilngries,49.0342,11.4726,Germany,872,3256
+Krailling,48.1,11.4,Germany,873,98890
+Tournon-sur-Rhône,45.0672,4.8328,France,874,65211
+Baud,47.8756,-3.0189,France,875,5755
+Noci,40.8,17.1333,Italy,876,99221
+Gengenbach,48.4042,8.0153,Germany,877,37177
+Cerano,45.4,8.7833,Italy,878,82972
+Laives,46.4276,11.3405,Italy,879,4846
+Mellrichstadt,50.4278,10.3027,Germany,880,56933
+Steinheim,51.8658,9.0944,Germany,881,41473
+Erkner,52.4167,13.75,Germany,882,99562
+San Filippo della Mela,38.1667,15.2667,Italy,883,70839
+Mérignac,44.8386,-0.6436,France,884,69789
+Ascoli Piceno,42.8547,13.5753,Italy,885,24493
+Melito di Napoli,40.9167,14.2333,Italy,886,86410
+Gleizé,45.9892,4.6969,France,887,41297
+Ribnitz-Damgarten,54.25,12.4667,Germany,888,3344
+Einhausen,49.6722,8.5451,Germany,889,55284
+Flero,45.4835,10.1745,Italy,890,93575
+Leverano,40.2833,18.0833,Italy,891,25315
+Haiger,50.7422,8.2039,Germany,892,76652
+Nocera Inferiore,40.75,14.6333,Italy,893,78609
+Neuhaus am Rennweg,50.51,11.1378,Germany,894,85743
+Gozzano,45.75,8.4333,Italy,895,51457
+Bonchamp-lès-Laval,48.0742,-0.7014,France,896,55106
+Belm,52.3,8.1333,Germany,897,14579
+Libercourt,50.4839,3.0139,France,898,3861
+Niedereschach,48.1317,8.5272,Germany,899,52663
+Fulda,50.5528,9.6775,Germany,900,16975
+Brignano Gera d’Adda,45.5333,9.6333,Italy,901,32204
+Mimizan,44.2008,-1.2286,France,902,18147
+Mozzate,45.6833,8.95,Italy,903,60066
+Appiano Gentile,45.7383,8.9797,Italy,904,21426
+Borgo San Dalmazzo,44.3333,7.4833,Italy,905,37170
+Spino d’Adda,45.4,9.5,Italy,906,3606
+Pontinia,41.4083,13.0443,Italy,907,21685
+Castelli Calepio,45.6333,9.9,Italy,908,76873
+Wolfach,48.2994,8.2228,Germany,909,59433
+Arradon,47.6256,-2.8233,France,910,14298
+Savona,44.308,8.481,Italy,911,43145
+Cavriglia,43.5216,11.4864,Italy,912,70385
+Modugno,41.0833,16.7833,Italy,913,14068
+Montigny-lès-Cormeilles,48.9944,2.1958,France,914,15577
+Cairo Montenotte,44.3979,8.2778,Italy,915,41692
+Camerota,40.033,15.3699,Italy,916,82033
+Kupferzell,49.2333,9.6833,Germany,917,39399
+Vallauris,43.5805,7.0538,France,918,82690
+Stegaurach,49.87,10.7822,Germany,919,18040
+Norderstedt,53.7064,10.0103,Germany,920,19183
+Cinquefrondi,38.4167,16.1,Italy,921,91677
+Altavilla Vicentina,45.5164,11.4597,Italy,922,98389
+Montlouis-sur-Loire,47.3883,0.8272,France,923,19678
+Castelbuono,37.9306,14.0883,Italy,924,28184
+Vergiate,45.7167,8.7,Italy,925,93682
+Hagenow,53.4317,11.1931,Germany,926,30834
+Castelfranco di Sotto,43.7,10.75,Italy,927,3964
+Manduria,40.4028,17.6342,Italy,928,36025
+Kißlegg,47.79,9.8842,Germany,929,11960
+Passau,48.5667,13.4667,Germany,930,55250
+Urrugne,43.3622,-1.7,France,931,25729
+Esvres,47.2844,0.7861,France,932,53811
+Foggia,41.4584,15.5519,Italy,933,94155
+Saint-Max,48.7011,6.2067,France,934,56929
+Kirchheimbolanden,49.6664,8.0117,Germany,935,54624
+Euskirchen,50.6613,6.7873,Germany,936,10413
+Hinte,53.4167,7.2,Germany,937,31927
+Monopoli,40.95,17.3,Italy,938,76838
+Laichingen,48.4897,9.6861,Germany,939,48507
+Moissy-Cramayel,48.6261,2.5922,France,940,40302
+Nümbrecht,50.9053,7.5422,Germany,941,51565
+Giffoni Valle Piana,40.7167,14.9333,Italy,942,33530
+Concordia Sagittaria,45.7667,12.85,Italy,943,2796
+Capriolo,45.6373,9.9336,Italy,944,12000
+Sesto Calende,45.7333,8.6333,Italy,945,18557
+Beerfelden,49.5676,8.9738,Germany,946,17134
+Wiedemar,51.4667,12.2036,Germany,947,23056
+Osternienburg,51.8,12.0167,Germany,948,54581
+Aizenay,46.74,-1.6083,France,949,57052
+Segrate,45.49,9.2953,Italy,950,34373
+Pontedera,43.6625,10.6328,Italy,951,57223
+Guagnano,40.4,17.95,Italy,952,21639
+Kandern,47.7144,7.6608,Germany,953,41412
+Colomiers,43.6139,1.3367,France,954,38700
+Busca,44.5167,7.4667,Italy,955,1428
+Andrésy,48.9808,2.0583,France,956,51914
+Ditzingen,48.8264,9.0667,Germany,957,24673
+Bauvin,50.5142,2.8981,France,958,85391
+Neubrandenburg,53.5569,13.2608,Germany,959,17853
+Pineto,42.6167,14.0667,Italy,960,96142
+Gémenos,43.2961,5.6269,France,961,28861
+Bonsecours,49.4278,1.1278,France,962,21702
+Fondettes,47.4042,0.5989,France,963,3067
+San Giovanni Suèrgiu,39.1109,8.5225,Italy,964,64052
+Schwaikheim,48.8714,9.3531,Germany,965,3993
+Osnabrück,52.2789,8.0431,Germany,966,99277
+Villepinte,48.955,2.541,France,967,3853
+Noto,36.8833,15.0833,Italy,968,76060
+Haar,48.1,11.7333,Germany,969,52137
+Nervesa della Battaglia,45.8333,12.2167,Italy,970,78166
+Tecklenburg,52.2194,7.8125,Germany,971,99695
+Nordhorn,52.4333,7.0667,Germany,972,62530
+Périgny,46.1528,-1.0964,France,973,89644
+Farébersviller,49.1147,6.8636,France,974,74413
+Le Mesnil-Saint-Denis,48.7436,1.9631,France,975,47665
+Poggiomarino,40.8,14.55,Italy,976,71670
+Albstadt,48.2119,9.0239,Germany,977,26089
+Finnentrop,51.1731,7.9725,Germany,978,62587
+Luzzi,39.45,16.2833,Italy,979,91261
+Loro Ciuffenna,43.5867,11.6286,Italy,980,6098
+Clapiers,43.6575,3.8883,France,981,72328
+Gehrden,52.3135,9.6008,Germany,982,16426
+Bourg-lès-Valence,44.9475,4.8953,France,983,14391
+Verl,51.8831,8.5167,Germany,984,36846
+Ennepetal,51.3021,7.3425,Germany,985,59082
+La Tour-du-Pin,45.5658,5.445,France,986,94065
+Saint-Sulpice-la-Pointe,43.7742,1.6864,France,987,59240
+Vaucresson,48.8425,2.1528,France,988,48249
+Bad Laer,52.1031,8.0892,Germany,989,30261
+Pizzo,38.7333,16.1667,Italy,990,89759
+Caivano,40.95,14.3,Italy,991,16359
+Vic-le-Comte,45.6431,3.2461,France,992,20161
+Chambray-lès-Tours,47.3375,0.7139,France,993,33644
+Chauray,46.3606,-0.3772,France,994,52386
+Calvisson,43.785,4.1922,France,995,62299
+Briare,47.6381,2.7392,France,996,49193
+Toulouges,42.6706,2.8319,France,997,86310
+San Giovanni la Punta,37.5833,15.1,Italy,998,3870
+Geisenhausen,48.4667,12.25,Germany,999,51270

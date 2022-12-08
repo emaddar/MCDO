@@ -1,0 +1,101 @@
+id_ingredient,nom_ingredient,prix_achats,quantite,prix_total,id_resto
+0,Cous Cous,9,111,999,0
+1,Mahi mahi,14,67,938,1
+2,Banana,10,415,4150,2
+3,Mace,8,67,536,3
+4,Eggplant,28,372,10416,4
+5,Butternut lettuce,22,189,4158,5
+6,Marigold,22,463,10186,6
+7,Muesli,4,240,960,7
+8,Watercress,3,454,1362,8
+9,Haricot Beans,27,164,4428,9
+10,Rockmelon,23,36,828,10
+11,Quark Quinc,12,369,4428,11
+12,Bacon,3,273,819,12
+13,Mackerel,30,238,7140,13
+14,Avocado Oil,29,430,12470,14
+15,Taleggio cheese,1,286,286,15
+16,Artichoke,11,280,3080,16
+17,Galangal,28,366,10248,17
+18,Oyster Sauce,24,461,11064,18
+19,Oysters,19,134,2546,19
+20,Cos lettuce,20,414,8280,20
+21,Nuts,8,232,1856,21
+22,Cumquat,17,314,5338,22
+23,Wheat,10,330,3300,23
+24,Vegetable spaghetti,22,92,2024,24
+25,Milk,6,168,1008,25
+26,Hiramasa Kingfish,7,327,2289,26
+27,Chinese Five Spice,15,32,480,27
+28,Fennel,5,180,900,28
+29,Horseradish,25,256,6400,29
+30,Bran,18,481,8658,30
+31,Duck,14,308,4312,31
+32,Bean Shoots,2,369,738,32
+33,Broccoli,21,320,6720,33
+34,RedWine,28,455,12740,34
+35,Flaxseed Oil,17,121,2057,35
+36,Capsicum,21,93,1953,36
+37,Allspice,3,497,1491,37
+38,Chestnut,13,273,3549,38
+39,Squid,21,90,1890,39
+40,Yogurt,4,259,1036,40
+41,Pecan Nut,30,479,14370,41
+42,Sugar,29,137,3973,42
+43,Mint,28,173,4844,43
+44,Limes,24,107,2568,44
+45,Clams,30,288,8640,45
+46,Iceberg lettuce,8,38,304,46
+47,Curry Powder,22,369,8118,47
+48,Custard Apples,14,228,3192,48
+49,Green Tea noodles,8,70,560,49
+50,FlourOat,28,406,11368,50
+51,Pineapple,21,84,1764,51
+52,Alfalfa,1,94,94,52
+53,Soy Beans,11,193,2123,53
+54,Asparagus,7,9,63,54
+55,Scallops,12,92,1104,55
+56,Watermelon,4,29,116,56
+57,Basil Basmati rice,21,300,6300,57
+58,Garam Masala,13,362,4706,58
+59,Horseradish,9,317,2853,59
+60,Nasturtium,3,328,984,60
+61,Rice Noodles,10,27,270,61
+62,Cornichons,7,222,1554,62
+63,Rhubarb,7,125,875,63
+64,Mackerel,30,126,3780,64
+65,Bonza,8,360,2880,65
+66,Plums,30,33,990,66
+67,Asparagus,30,330,9900,67
+68,Brown Rice,23,251,5773,68
+69,Bonza,17,424,7208,69
+70,Mandarins,16,485,7760,70
+71,Yoghurt,26,292,7592,71
+72,Coffee,28,279,7812,72
+73,Ricotta,7,294,2058,73
+74,Oyster Sauce,2,186,372,74
+75,Cabbage,30,186,5580,75
+76,Spinach,21,113,2373,76
+77,Cherries,24,117,2808,77
+78,Malt vinegar,20,165,3300,78
+79,Canola Oil,4,484,1936,79
+80,Redfish,26,352,9152,80
+81,Peppermint,27,41,1107,81
+82,Endive,25,497,12425,82
+83,Margarine,22,402,8844,83
+84,Flathead,27,193,5211,84
+85,Rice Noodles,1,214,214,85
+86,Lavender Flowers,14,49,686,86
+87,Mangosteens,28,58,1624,87
+88,Asian Noodles,6,292,1752,88
+89,William Pear,11,276,3036,89
+90,Lychees,20,456,9120,90
+91,Okra,29,372,10788,91
+92,Yoghurt,10,399,3990,92
+93,Buckwheat Flour,5,333,1665,93
+94,Coconut Oil,1,25,25,94
+95,Goat Cheese,24,411,9864,95
+96,Parrotfish,10,383,3830,96
+97,Flaxseed,22,398,8756,97
+98,English Spinach,29,345,10005,98
+99,Soy Beans,29,451,13079,99

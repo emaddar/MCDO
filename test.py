@@ -11,22 +11,21 @@ fake = Faker("fr_FR")
 fake.add_provider(FoodProvider)
 
 
+#     "Carte",
+#     metadata,
+#     db.Column("pays_resto", db.Integer(), primary_key = True),
+#     db.Column("id_items", db.Integer(), db.ForeignKey("Restaurant.id_resto")),
+#     db.Column("id_menu", db.String(35), nullable=False),
 
 
 
+df1 = pd.DataFrame()
+resto = pd.read_csv("CSV/adresse.csv")
+menu = pd.read_csv("CSV/menu.csv")
+itms = pd.read_csv("CSV/items.csv")
 
-sample_list = ["p", "m","l"]
-dessert = ["Hot Fudge Sundae", "Baked Apple Pie", "Hot Caramel Sundae", "M&M McFlurry", "Strawberry Shake"]
-data = {}
-for i in range(0, int(1000)):
-        data[i]={}
-        data[i]['id_item'] = i
-        data[i]['nom_item'] = fake.dish()
-        data[i]['boisson_taille'] = np.random.choice(sample_list)
-        data[i]['prix_vente_menu'] =  random.randint(2, 12)
-
-
-df1 = pd.DataFrame(data).T
-
-# print(df1.head())
-df1.to_csv("CSV/items.csv", index=False)
+df1['pays_resto'] = resto['pays_resto']
+df1['id_item'] = itms['id_item']
+df1['id_menu'] = menu['id_menu']
+print(df1.head())
+# df1.to_csv("CSV/carte.csv", index=False)

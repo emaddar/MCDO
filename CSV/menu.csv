@@ -1,101 +1,101 @@
-id_menu,plat,boisson,dessert,prix_ventre_menu
-0,Ebiten maki,Sprit,M&M McFlurry,9
-1,Chicken wings,Fanta,Hot Caramel Sundae,7
-2,Pappardelle alla Bolognese,Fanta,Hot Caramel Sundae,13
-3,Chicken wings,Sprit,Hot Caramel Sundae,9
-4,Lasagne,Fanta,Baked Apple Pie,11
-5,Cheeseburger,Sprit,Baked Apple Pie,9
-6,Pork belly buns,Oasis,Hot Fudge Sundae,12
-7,Mushroom Risotto,Sprit,Hot Caramel Sundae,11
-8,Pasta with Tomato and Basil,Coca,M&M McFlurry,9
-9,Teriyaki Chicken donburi,Sprit,Hot Fudge Sundae,11
-10,Teriyaki Chicken donburi,Coca,M&M McFlurry,7
-11,Bruschette with Tomato,Oasis,Baked Apple Pie,9
-12,Risotto with seafood,Sprit,Hot Caramel Sundae,8
-13,Fish and chips,Sprit,Strawberry Shake,8
-14,Risotto with seafood,Fanta,M&M McFlurry,8
-15,Katsu Curry,Oasis,Hot Caramel Sundae,13
-16,Caesar Salad,Sprit,Strawberry Shake,9
-17,Ebiten maki,Sprit,Hot Fudge Sundae,7
-18,Fish and chips,Oasis,Hot Fudge Sundae,14
-19,Cheeseburger,Coca,Hot Fudge Sundae,12
-20,Barbecue Ribs,Fanta,Baked Apple Pie,10
-21,Pappardelle alla Bolognese,Oasis,Strawberry Shake,9
-22,Pork belly buns,Sprit,Hot Caramel Sundae,13
-23,Salmon nigiri,Coca,M&M McFlurry,10
-24,Ricotta stuffed Ravioli,Sprit,M&M McFlurry,11
-25,Pork belly buns,Coca,M&M McFlurry,10
-26,Souvlaki,Oasis,M&M McFlurry,10
-27,French fries with sausages,Sprit,M&M McFlurry,8
-28,Barbecue Ribs,Coca,Hot Fudge Sundae,10
-29,Mushroom Risotto,Sprit,Baked Apple Pie,10
-30,Cheeseburger,Coca,Hot Caramel Sundae,8
-31,Philadelphia maki,Fanta,Hot Fudge Sundae,11
-32,Fettuccine Alfredo,Oasis,Hot Caramel Sundae,8
-33,Ricotta stuffed Ravioli,Sprit,Baked Apple Pie,13
-34,Linguine with clams,Fanta,M&M McFlurry,11
-35,Fish and chips,Fanta,Baked Apple Pie,9
-36,Vegetable Soup,Fanta,M&M McFlurry,10
-37,Pasta and Beans,Sprit,Hot Caramel Sundae,10
-38,Pork sausage roll,Coca,M&M McFlurry,9
-39,Linguine with clams,Sprit,Baked Apple Pie,9
-40,Pork sausage roll,Sprit,Baked Apple Pie,13
-41,Ebiten maki,Coca,Hot Fudge Sundae,13
-42,Pork sausage roll,Oasis,Baked Apple Pie,8
-43,Fettuccine Alfredo,Sprit,M&M McFlurry,13
-44,Pappardelle alla Bolognese,Fanta,Hot Caramel Sundae,7
-45,Pasta with Tomato and Basil,Fanta,Strawberry Shake,12
-46,Risotto with seafood,Fanta,Hot Caramel Sundae,8
-47,Bruschette with Tomato,Fanta,Hot Caramel Sundae,7
-48,Pappardelle alla Bolognese,Oasis,M&M McFlurry,7
-49,Katsu Curry,Coca,Hot Caramel Sundae,10
-50,Mushroom Risotto,Fanta,M&M McFlurry,14
-51,Souvlaki,Fanta,Hot Fudge Sundae,7
-52,Pork belly buns,Fanta,M&M McFlurry,9
-53,Pappardelle alla Bolognese,Fanta,M&M McFlurry,10
-54,Scotch eggs,Coca,M&M McFlurry,12
-55,Cheeseburger,Fanta,M&M McFlurry,13
-56,Caesar Salad,Fanta,Baked Apple Pie,11
-57,California maki,Fanta,Baked Apple Pie,13
-58,Lasagne,Oasis,Hot Fudge Sundae,9
-59,Mushroom Risotto,Coca,Hot Caramel Sundae,13
-60,Salmon nigiri,Fanta,Strawberry Shake,13
-61,French fries with sausages,Sprit,Strawberry Shake,8
-62,Tiramisù,Sprit,Hot Fudge Sundae,8
-63,Chilli con carne,Sprit,Hot Caramel Sundae,8
-64,Souvlaki,Oasis,Baked Apple Pie,10
-65,Califlower penne,Fanta,Strawberry Shake,13
-66,Caprese Salad,Fanta,Strawberry Shake,14
-67,Teriyaki Chicken donburi,Fanta,Hot Caramel Sundae,13
-68,Caesar Salad,Fanta,Baked Apple Pie,14
-69,Ricotta stuffed Ravioli,Oasis,Hot Caramel Sundae,9
-70,Philadelphia maki,Oasis,Hot Fudge Sundae,14
-71,French fries with sausages,Sprit,Hot Fudge Sundae,13
-72,Fish and chips,Sprit,Strawberry Shake,12
-73,Ricotta stuffed Ravioli,Oasis,Strawberry Shake,14
-74,Philadelphia maki,Oasis,Hot Fudge Sundae,7
-75,Pappardelle alla Bolognese,Oasis,Hot Fudge Sundae,10
-76,Meatballs with sauce,Sprit,M&M McFlurry,10
-77,Meatballs with sauce,Coca,Hot Fudge Sundae,14
-78,Califlower penne,Sprit,Hot Caramel Sundae,7
-79,Scotch eggs,Oasis,M&M McFlurry,14
-80,Chicken wings,Coca,Strawberry Shake,14
-81,Salmon nigiri,Sprit,Hot Caramel Sundae,11
-82,Ricotta stuffed Ravioli,Oasis,Hot Caramel Sundae,8
-83,Tuna sashimi,Sprit,Baked Apple Pie,12
-84,Mushroom Risotto,Fanta,Baked Apple Pie,8
-85,California maki,Oasis,Hot Fudge Sundae,12
-86,California maki,Fanta,M&M McFlurry,12
-87,Lasagne,Fanta,Hot Caramel Sundae,12
-88,Bruschette with Tomato,Coca,Hot Fudge Sundae,8
-89,Mushroom Risotto,Sprit,M&M McFlurry,8
-90,Scotch eggs,Fanta,Strawberry Shake,11
-91,Chilli con carne,Oasis,Hot Caramel Sundae,11
-92,Bruschette with Tomato,Coca,Strawberry Shake,10
-93,Caesar Salad,Sprit,Hot Fudge Sundae,12
-94,Risotto with seafood,Fanta,Baked Apple Pie,8
-95,Bruschette with Tomato,Sprit,Strawberry Shake,13
-96,Fish and chips,Sprit,Hot Fudge Sundae,12
-97,Pasta and Beans,Sprit,Baked Apple Pie,7
-98,Pasta Carbonara,Sprit,Baked Apple Pie,8
-99,Pizza,Fanta,Hot Fudge Sundae,12
+id_menu,plat,boisson,dessert,prix_vente_menu
+0,Souvlaki,Sprit,Strawberry Shake,10
+1,Pasta with Tomato and Basil,Oasis,M&M McFlurry,10
+2,Pork sausage roll,Sprit,Strawberry Shake,12
+3,Fish and chips,Sprit,Hot Fudge Sundae,10
+4,Katsu Curry,Oasis,Baked Apple Pie,12
+5,California maki,Coca,M&M McFlurry,10
+6,Pork belly buns,Sprit,Hot Caramel Sundae,11
+7,Pappardelle alla Bolognese,Coca,Strawberry Shake,7
+8,Linguine with clams,Coca,Strawberry Shake,14
+9,Pasta with Tomato and Basil,Fanta,M&M McFlurry,10
+10,Tiramisù,Fanta,Strawberry Shake,14
+11,Teriyaki Chicken donburi,Oasis,M&M McFlurry,11
+12,California maki,Fanta,Hot Fudge Sundae,13
+13,Teriyaki Chicken donburi,Sprit,Baked Apple Pie,13
+14,Fish and chips,Coca,Hot Caramel Sundae,8
+15,Pasta and Beans,Coca,Hot Caramel Sundae,13
+16,Mushroom Risotto,Sprit,Hot Fudge Sundae,10
+17,Chicken wings,Fanta,Strawberry Shake,9
+18,Vegetable Soup,Oasis,Hot Fudge Sundae,12
+19,Linguine with clams,Coca,M&M McFlurry,13
+20,Chicken wings,Sprit,Hot Caramel Sundae,7
+21,California maki,Sprit,Strawberry Shake,9
+22,Salmon nigiri,Oasis,Hot Fudge Sundae,13
+23,Cheeseburger,Fanta,Hot Fudge Sundae,9
+24,Scotch eggs,Oasis,Hot Caramel Sundae,9
+25,Caesar Salad,Sprit,M&M McFlurry,8
+26,Ebiten maki,Fanta,Baked Apple Pie,11
+27,Caesar Salad,Fanta,Baked Apple Pie,11
+28,Pizza,Coca,Baked Apple Pie,9
+29,Pizza,Coca,Hot Caramel Sundae,9
+30,Pasta Carbonara,Fanta,Baked Apple Pie,13
+31,Pork belly buns,Sprit,M&M McFlurry,14
+32,Pasta and Beans,Sprit,Strawberry Shake,8
+33,Caprese Salad,Fanta,Baked Apple Pie,12
+34,Pasta and Beans,Oasis,M&M McFlurry,13
+35,Scotch eggs,Coca,Hot Caramel Sundae,8
+36,Pasta and Beans,Fanta,Baked Apple Pie,8
+37,Teriyaki Chicken donburi,Oasis,Hot Caramel Sundae,13
+38,Ricotta stuffed Ravioli,Fanta,M&M McFlurry,12
+39,Pappardelle alla Bolognese,Coca,M&M McFlurry,7
+40,Cheeseburger,Sprit,M&M McFlurry,7
+41,Meatballs with sauce,Sprit,Strawberry Shake,8
+42,Barbecue Ribs,Oasis,Baked Apple Pie,10
+43,Chicken wings,Oasis,Strawberry Shake,12
+44,Chicken milanese,Fanta,Hot Caramel Sundae,10
+45,Pizza,Fanta,M&M McFlurry,11
+46,Lasagne,Oasis,Strawberry Shake,10
+47,Salmon nigiri,Sprit,M&M McFlurry,12
+48,Souvlaki,Coca,Strawberry Shake,12
+49,Caprese Salad,Oasis,Strawberry Shake,13
+50,Pork sausage roll,Fanta,M&M McFlurry,14
+51,Salmon nigiri,Oasis,Strawberry Shake,11
+52,California maki,Coca,Strawberry Shake,8
+53,Califlower penne,Fanta,Hot Fudge Sundae,9
+54,California maki,Coca,Hot Caramel Sundae,14
+55,French fries with sausages,Oasis,Baked Apple Pie,11
+56,Chilli con carne,Oasis,Hot Caramel Sundae,8
+57,Bruschette with Tomato,Oasis,Baked Apple Pie,13
+58,Vegetable Soup,Fanta,Strawberry Shake,9
+59,Meatballs with sauce,Oasis,M&M McFlurry,7
+60,Pasta and Beans,Coca,Hot Caramel Sundae,10
+61,Pork belly buns,Coca,Hot Caramel Sundae,10
+62,Pizza,Coca,Baked Apple Pie,9
+63,Salmon nigiri,Sprit,Strawberry Shake,14
+64,Chicken milanese,Fanta,Baked Apple Pie,14
+65,Pappardelle alla Bolognese,Fanta,M&M McFlurry,13
+66,Teriyaki Chicken donburi,Sprit,Baked Apple Pie,12
+67,Tuna sashimi,Fanta,Hot Fudge Sundae,13
+68,Vegetable Soup,Fanta,Hot Fudge Sundae,13
+69,Salmon nigiri,Oasis,Hot Caramel Sundae,9
+70,California maki,Coca,Hot Fudge Sundae,9
+71,Vegetable Soup,Sprit,Strawberry Shake,12
+72,Scotch eggs,Fanta,M&M McFlurry,11
+73,Mushroom Risotto,Oasis,M&M McFlurry,14
+74,Tuna sashimi,Oasis,M&M McFlurry,10
+75,Pizza,Fanta,Hot Caramel Sundae,8
+76,Caesar Salad,Coca,Baked Apple Pie,13
+77,Risotto with seafood,Fanta,Hot Caramel Sundae,14
+78,Pappardelle alla Bolognese,Sprit,Hot Fudge Sundae,12
+79,Chilli con carne,Fanta,Strawberry Shake,8
+80,Ricotta stuffed Ravioli,Oasis,Baked Apple Pie,12
+81,Fish and chips,Sprit,Hot Fudge Sundae,13
+82,Pasta and Beans,Coca,M&M McFlurry,8
+83,Linguine with clams,Oasis,M&M McFlurry,9
+84,Risotto with seafood,Fanta,Hot Fudge Sundae,13
+85,Teriyaki Chicken donburi,Oasis,Hot Fudge Sundae,11
+86,Pappardelle alla Bolognese,Sprit,M&M McFlurry,8
+87,Scotch eggs,Sprit,Baked Apple Pie,7
+88,Chicken wings,Oasis,Strawberry Shake,8
+89,Chilli con carne,Sprit,Hot Fudge Sundae,11
+90,Califlower penne,Sprit,M&M McFlurry,12
+91,French fries with sausages,Coca,Baked Apple Pie,12
+92,Chilli con carne,Sprit,M&M McFlurry,14
+93,Souvlaki,Fanta,M&M McFlurry,11
+94,Pasta and Beans,Fanta,Hot Caramel Sundae,8
+95,Philadelphia maki,Coca,M&M McFlurry,13
+96,Barbecue Ribs,Sprit,Strawberry Shake,14
+97,Mushroom Risotto,Fanta,M&M McFlurry,10
+98,Bruschette with Tomato,Fanta,Hot Caramel Sundae,14
+99,Tiramisù,Sprit,M&M McFlurry,11

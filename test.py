@@ -12,32 +12,39 @@ fake = Faker("fr_FR")
 fake.add_provider(FoodProvider)
 
 
-# #     "Association",
-# #     metadata,
-# #     db.Column("id_association", db.Integer(), primary_key = True),
-# #     db.Column("id_ingredient", db.Integer(), db.ForeignKey("Restaurant.id_resto")),
-# #     db.Column("id_item", db.String(35), nullable=False),
- 
+sample_list = ["CB", "espece", "cheque"]
 
 data = {}
-for i in range(0, int(100)):
+for i in range(0, int(1000)):
         data[i]={}
-        data[i]['id_association'] = uuid.uuid4()
-
+        data[i]['id_facture'] =  uuid.uuid4()
+        data[i]['date'] =fake.date_between(start_date="-70y",end_date="-0y")
+        data[i]['heure'] = f"{random.randint(9,11)}:{random.randint(0,59)}:{random.randint(0,59)}"
+        data[i]['payement_type'] = np.random.choice(sample_list)
+        data[i]['borne'] =random.randint(0,1)
+        data[i]['prix_total'] =  random.randint(5, 200)
 
 
 df1 = pd.DataFrame(data).T
+perso = pd.read_csv("CSV/personnels.csv")
+menu = pd.read_csv("CSV/menu.csv")
+resto = pd.read_csv("CSV/Restaurant.csv")
 
-ingredient = pd.read_csv("CSV/ingredients.csv")
+
+# resto = pd.read_csv("CSV/Restaurant.csv")
+# ing = pd.read_csv("CSV/ingredients.csv")
 itms = pd.read_csv("CSV/items.csv")
 
 
-df1['id_ingredient'] = ingredient['id_ingredient']
-df1['id_item'] = itms['id_item']
+df1['id_personnel'] = perso['id_personnel']
+df1['nom_item'] = itms['nom_item']
+df1['prix_vente_item'] = itms['prix_vente_item']
+df1['prix_vente_menu'] = menu['prix_vente_menu']
+df1['id_resto'] = resto['id_resto']
 
 
 
-# # df1.to_csv("CSV/ingredients.csv", index=False)
-
+df1.to_csv("CSV/facture.csv", index=False)
+# print(df1.head())
 
 

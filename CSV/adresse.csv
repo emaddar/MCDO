@@ -1,4 +1,4 @@
-city,lat,lng,country,id_resto,code_postale
+city,lat,lng,pays_resto,id_resto,code_postale
 Saint-Étienne-de-Montluc,47.2764,-1.7803,France,0,66187
 Bologna,44.4939,11.3428,Italy,1,86181
 Casatenovo,45.6983,9.3117,Italy,2,30978

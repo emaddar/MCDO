@@ -1,0 +1,1001 @@
+id_item,nom_item,boisson_taille,prix_vente_menu
+0,Pizza,m,5
+1,Pasta with Tomato and Basil,l,11
+2,Mushroom Risotto,l,11
+3,French fries with sausages,p,12
+4,Pizza,l,9
+5,Linguine with clams,p,2
+6,Caesar Salad,l,11
+7,Pasta and Beans,p,6
+8,Pasta and Beans,l,8
+9,Pasta and Beans,p,11
+10,Salmon nigiri,m,2
+11,Salmon nigiri,m,12
+12,Cheeseburger,m,10
+13,Caesar Salad,p,11
+14,Fish and chips,p,5
+15,Califlower penne,l,6
+16,Meatballs with sauce,m,3
+17,French fries with sausages,p,2
+18,Bruschette with Tomato,m,12
+19,California maki,p,2
+20,Meatballs with sauce,m,11
+21,Barbecue Ribs,m,3
+22,Ebiten maki,l,9
+23,Bruschette with Tomato,m,4
+24,Souvlaki,p,5
+25,Pasta and Beans,p,9
+26,Philadelphia maki,m,3
+27,Scotch eggs,p,6
+28,Pasta and Beans,m,10
+29,French fries with sausages,m,8
+30,Teriyaki Chicken donburi,m,10
+31,French fries with sausages,p,10
+32,Bruschette with Tomato,l,10
+33,Meatballs with sauce,m,4
+34,Meatballs with sauce,l,11
+35,Bruschette with Tomato,p,5
+36,Fettuccine Alfredo,p,10
+37,Chicken wings,l,4
+38,Pasta Carbonara,m,8
+39,French fries with sausages,m,9
+40,Pappardelle alla Bolognese,p,8
+41,Tiramisù,m,6
+42,Souvlaki,l,6
+43,Fettuccine Alfredo,m,9
+44,Tiramisù,l,10
+45,Katsu Curry,l,5
+46,Scotch eggs,p,7
+47,Vegetable Soup,p,8
+48,Ebiten maki,l,3
+49,Pork sausage roll,l,2
+50,Pasta with Tomato and Basil,m,5
+51,Pappardelle alla Bolognese,m,9
+52,Philadelphia maki,p,6
+53,Pork sausage roll,m,5
+54,Souvlaki,l,7
+55,Salmon nigiri,l,9
+56,Barbecue Ribs,p,11
+57,Ricotta stuffed Ravioli,m,6
+58,Ricotta stuffed Ravioli,m,9
+59,Tuna sashimi,l,7
+60,Caesar Salad,m,6
+61,Fettuccine Alfredo,l,12
+62,Chilli con carne,p,10
+63,Pizza,p,11
+64,Caprese Salad,l,12
+65,French fries with sausages,m,3
+66,Pasta with Tomato and Basil,l,11
+67,Meatballs with sauce,l,5
+68,Pizza,m,12
+69,Ricotta stuffed Ravioli,m,3
+70,French fries with sausages,p,8
+71,Chilli con carne,l,10
+72,California maki,l,12
+73,Risotto with seafood,p,7
+74,Souvlaki,m,7
+75,Chicken Fajitas,m,6
+76,Barbecue Ribs,l,3
+77,Ebiten maki,p,8
+78,Fish and chips,m,5
+79,California maki,l,12
+80,Pork sausage roll,m,3
+81,Fish and chips,p,3
+82,Bruschette with Tomato,m,6
+83,California maki,m,2
+84,Ricotta stuffed Ravioli,m,7
+85,Ricotta stuffed Ravioli,p,9
+86,Meatballs with sauce,m,2
+87,Chicken milanese,p,11
+88,Bruschette with Tomato,p,9
+89,Chilli con carne,p,3
+90,Lasagne,l,12
+91,Chicken Fajitas,m,8
+92,Barbecue Ribs,p,12
+93,Mushroom Risotto,l,12
+94,Souvlaki,l,12
+95,Caesar Salad,m,12
+96,Fish and chips,m,12
+97,Barbecue Ribs,l,11
+98,Tiramisù,p,7
+99,French fries with sausages,p,7
+100,Teriyaki Chicken donburi,m,8
+101,Caprese Salad,m,5
+102,Tuna sashimi,m,12
+103,Souvlaki,m,3
+104,Bruschette with Tomato,l,4
+105,Lasagne,l,12
+106,Pork sausage roll,l,7
+107,Ricotta stuffed Ravioli,m,6
+108,Pork sausage roll,m,10
+109,Chilli con carne,p,10
+110,Chilli con carne,p,9
+111,Teriyaki Chicken donburi,m,2
+112,Chilli con carne,l,10
+113,Salmon nigiri,p,2
+114,Ebiten maki,m,2
+115,Scotch eggs,p,3
+116,Fish and chips,l,3
+117,Pasta and Beans,p,2
+118,Pizza,l,11
+119,Pasta with Tomato and Basil,p,8
+120,Souvlaki,m,9
+121,Chicken milanese,p,11
+122,Pappardelle alla Bolognese,p,10
+123,Linguine with clams,l,11
+124,Pork belly buns,p,12
+125,Chicken milanese,p,5
+126,Risotto with seafood,p,4
+127,Barbecue Ribs,l,6
+128,Katsu Curry,m,2
+129,Mushroom Risotto,l,7
+130,Katsu Curry,p,9
+131,Pasta Carbonara,p,3
+132,Cheeseburger,m,8
+133,Mushroom Risotto,p,8
+134,Cheeseburger,p,6
+135,Fish and chips,l,7
+136,Philadelphia maki,l,4
+137,Ebiten maki,m,4
+138,Caprese Salad,l,9
+139,Caesar Salad,p,10
+140,Ricotta stuffed Ravioli,l,8
+141,Vegetable Soup,m,6
+142,Pork belly buns,l,11
+143,Philadelphia maki,p,11
+144,Pappardelle alla Bolognese,m,7
+145,Pasta Carbonara,m,9
+146,Teriyaki Chicken donburi,m,9
+147,French fries with sausages,p,6
+148,Barbecue Ribs,l,6
+149,Caesar Salad,p,5
+150,Salmon nigiri,l,10
+151,Califlower penne,l,10
+152,Ebiten maki,m,2
+153,Ebiten maki,p,11
+154,Chilli con carne,p,9
+155,Pasta and Beans,l,3
+156,Pasta Carbonara,m,7
+157,Pizza,m,5
+158,Barbecue Ribs,l,11
+159,Pasta and Beans,m,6
+160,Salmon nigiri,l,10
+161,Pasta and Beans,m,11
+162,Philadelphia maki,m,3
+163,Lasagne,l,9
+164,Ricotta stuffed Ravioli,m,11
+165,Bruschette with Tomato,p,2
+166,Ricotta stuffed Ravioli,l,6
+167,Bruschette with Tomato,l,8
+168,Fish and chips,p,3
+169,Katsu Curry,l,4
+170,Lasagne,l,10
+171,Pork belly buns,m,3
+172,Vegetable Soup,m,7
+173,Ricotta stuffed Ravioli,l,11
+174,Teriyaki Chicken donburi,p,11
+175,Mushroom Risotto,l,6
+176,Tiramisù,m,9
+177,Katsu Curry,m,7
+178,Souvlaki,m,9
+179,California maki,m,2
+180,Pork belly buns,l,6
+181,Califlower penne,m,11
+182,Pizza,p,5
+183,Barbecue Ribs,l,5
+184,Pappardelle alla Bolognese,l,12
+185,Califlower penne,m,12
+186,Bruschette with Tomato,l,2
+187,California maki,p,6
+188,Pasta with Tomato and Basil,p,2
+189,Vegetable Soup,m,6
+190,Salmon nigiri,l,2
+191,Pappardelle alla Bolognese,l,6
+192,Linguine with clams,p,4
+193,California maki,l,12
+194,Ebiten maki,l,12
+195,Meatballs with sauce,l,9
+196,Caesar Salad,p,11
+197,Chicken Fajitas,m,8
+198,Pizza,p,5
+199,Meatballs with sauce,l,10
+200,Fettuccine Alfredo,p,9
+201,California maki,p,11
+202,Pizza,l,7
+203,Vegetable Soup,l,7
+204,Fettuccine Alfredo,m,5
+205,French fries with sausages,l,12
+206,Pork belly buns,l,5
+207,Chilli con carne,p,6
+208,Chicken milanese,m,6
+209,Chicken wings,l,12
+210,Souvlaki,p,8
+211,Ricotta stuffed Ravioli,p,3
+212,Pasta Carbonara,l,12
+213,Cheeseburger,p,11
+214,Califlower penne,l,9
+215,Barbecue Ribs,m,11
+216,Chicken Fajitas,p,11
+217,Tiramisù,l,6
+218,Chicken Fajitas,p,3
+219,Philadelphia maki,l,8
+220,Bruschette with Tomato,m,11
+221,Fettuccine Alfredo,l,11
+222,Califlower penne,m,5
+223,Pork sausage roll,m,10
+224,Scotch eggs,l,5
+225,Ebiten maki,p,2
+226,Lasagne,l,10
+227,Pasta and Beans,l,6
+228,Ricotta stuffed Ravioli,l,9
+229,Teriyaki Chicken donburi,l,3
+230,Fettuccine Alfredo,l,12
+231,Vegetable Soup,m,7
+232,Fish and chips,l,7
+233,Pork sausage roll,l,6
+234,Barbecue Ribs,l,7
+235,California maki,l,11
+236,Barbecue Ribs,p,3
+237,Ricotta stuffed Ravioli,l,7
+238,Chicken milanese,m,12
+239,Caprese Salad,p,8
+240,Chilli con carne,l,3
+241,Souvlaki,m,10
+242,Lasagne,m,9
+243,Scotch eggs,p,10
+244,Vegetable Soup,p,11
+245,California maki,l,4
+246,Chilli con carne,m,10
+247,Fish and chips,l,3
+248,Vegetable Soup,m,11
+249,Pork belly buns,p,6
+250,Philadelphia maki,l,7
+251,Califlower penne,p,8
+252,Pork belly buns,p,7
+253,Risotto with seafood,l,8
+254,Katsu Curry,p,6
+255,Pasta with Tomato and Basil,l,11
+256,Caesar Salad,l,3
+257,Pasta with Tomato and Basil,l,4
+258,Ebiten maki,p,7
+259,Pasta Carbonara,p,9
+260,Ricotta stuffed Ravioli,m,12
+261,French fries with sausages,p,9
+262,Lasagne,p,3
+263,Pasta with Tomato and Basil,m,6
+264,Fettuccine Alfredo,l,2
+265,French fries with sausages,p,2
+266,California maki,p,7
+267,Barbecue Ribs,m,6
+268,Salmon nigiri,l,12
+269,Bruschette with Tomato,m,6
+270,Pasta with Tomato and Basil,m,12
+271,Teriyaki Chicken donburi,p,2
+272,Teriyaki Chicken donburi,l,8
+273,Caprese Salad,m,4
+274,Katsu Curry,m,10
+275,Risotto with seafood,p,5
+276,Barbecue Ribs,l,6
+277,Salmon nigiri,m,7
+278,Chicken wings,m,6
+279,Scotch eggs,l,5
+280,Philadelphia maki,l,10
+281,Ricotta stuffed Ravioli,l,7
+282,Meatballs with sauce,m,3
+283,Souvlaki,p,10
+284,Pasta Carbonara,p,4
+285,Tiramisù,l,10
+286,Katsu Curry,m,5
+287,Scotch eggs,p,8
+288,Bruschette with Tomato,p,10
+289,Teriyaki Chicken donburi,m,10
+290,Pizza,p,9
+291,Chicken milanese,p,11
+292,Bruschette with Tomato,p,8
+293,Pork belly buns,m,2
+294,Fish and chips,l,2
+295,French fries with sausages,m,4
+296,Pork belly buns,l,8
+297,Linguine with clams,l,9
+298,Fettuccine Alfredo,p,7
+299,Risotto with seafood,p,7
+300,Vegetable Soup,p,9
+301,Risotto with seafood,m,7
+302,Teriyaki Chicken donburi,p,11
+303,Mushroom Risotto,l,3
+304,Vegetable Soup,m,5
+305,Pork sausage roll,m,9
+306,Scotch eggs,l,5
+307,Salmon nigiri,l,4
+308,Risotto with seafood,p,2
+309,Tiramisù,p,11
+310,Tiramisù,l,2
+311,Fish and chips,p,6
+312,Mushroom Risotto,m,8
+313,Teriyaki Chicken donburi,p,12
+314,Tuna sashimi,m,2
+315,Pappardelle alla Bolognese,l,10
+316,Pizza,m,12
+317,Califlower penne,l,3
+318,Pasta Carbonara,l,6
+319,Califlower penne,l,9
+320,Pork sausage roll,l,10
+321,Bruschette with Tomato,p,10
+322,Chilli con carne,m,8
+323,California maki,l,9
+324,Teriyaki Chicken donburi,m,7
+325,Pasta Carbonara,m,2
+326,Ricotta stuffed Ravioli,l,7
+327,Ebiten maki,m,3
+328,Meatballs with sauce,p,4
+329,Katsu Curry,p,5
+330,Lasagne,p,2
+331,Pappardelle alla Bolognese,m,5
+332,Scotch eggs,p,6
+333,Linguine with clams,m,6
+334,Chicken wings,p,5
+335,Scotch eggs,m,7
+336,French fries with sausages,m,8
+337,Chicken milanese,l,11
+338,Philadelphia maki,p,9
+339,Chicken Fajitas,m,12
+340,Chicken Fajitas,p,4
+341,Chicken Fajitas,p,4
+342,Teriyaki Chicken donburi,m,10
+343,Pizza,p,2
+344,Chicken milanese,l,8
+345,Chilli con carne,p,9
+346,Pasta and Beans,l,7
+347,Risotto with seafood,l,2
+348,Tuna sashimi,p,7
+349,Risotto with seafood,l,8
+350,Pasta and Beans,l,11
+351,Fish and chips,l,12
+352,Ebiten maki,l,10
+353,Lasagne,m,2
+354,Souvlaki,p,6
+355,Lasagne,p,11
+356,Pork sausage roll,p,2
+357,Lasagne,p,9
+358,Caprese Salad,m,4
+359,Pork sausage roll,p,8
+360,Pasta Carbonara,m,8
+361,Katsu Curry,l,3
+362,Vegetable Soup,m,8
+363,Pappardelle alla Bolognese,m,6
+364,Philadelphia maki,m,4
+365,French fries with sausages,p,6
+366,Tuna sashimi,m,6
+367,Bruschette with Tomato,p,4
+368,Souvlaki,p,5
+369,Salmon nigiri,l,11
+370,Mushroom Risotto,m,2
+371,Caprese Salad,m,6
+372,Chicken Fajitas,l,10
+373,Mushroom Risotto,l,4
+374,Salmon nigiri,l,8
+375,Katsu Curry,p,8
+376,Katsu Curry,m,3
+377,Katsu Curry,p,3
+378,Teriyaki Chicken donburi,l,6
+379,Barbecue Ribs,p,12
+380,Linguine with clams,l,9
+381,Cheeseburger,m,3
+382,Vegetable Soup,l,10
+383,Califlower penne,m,7
+384,French fries with sausages,p,12
+385,Chicken wings,p,6
+386,Salmon nigiri,l,2
+387,Ebiten maki,m,5
+388,Pasta and Beans,m,11
+389,Pasta and Beans,m,12
+390,Pork belly buns,l,9
+391,Vegetable Soup,m,5
+392,Pork sausage roll,m,2
+393,Pasta and Beans,m,7
+394,Pork belly buns,m,12
+395,Teriyaki Chicken donburi,p,5
+396,Katsu Curry,l,6
+397,Chilli con carne,p,10
+398,Souvlaki,p,2
+399,Philadelphia maki,l,2
+400,Bruschette with Tomato,m,11
+401,Tuna sashimi,p,5
+402,Chicken wings,p,8
+403,Katsu Curry,l,3
+404,Pappardelle alla Bolognese,m,3
+405,Chicken Fajitas,p,2
+406,Tiramisù,l,4
+407,Teriyaki Chicken donburi,m,8
+408,Vegetable Soup,l,8
+409,Ebiten maki,m,11
+410,French fries with sausages,l,11
+411,Mushroom Risotto,p,2
+412,Caprese Salad,p,9
+413,Salmon nigiri,l,6
+414,Califlower penne,l,12
+415,Ricotta stuffed Ravioli,l,9
+416,Souvlaki,m,11
+417,Linguine with clams,m,9
+418,Pasta and Beans,p,7
+419,Pizza,l,7
+420,Linguine with clams,m,11
+421,Fish and chips,m,12
+422,Pappardelle alla Bolognese,p,8
+423,Scotch eggs,m,2
+424,French fries with sausages,m,10
+425,Pork belly buns,m,5
+426,Lasagne,l,2
+427,Souvlaki,m,6
+428,Pasta and Beans,p,6
+429,Ebiten maki,p,3
+430,Chicken wings,l,9
+431,Souvlaki,l,9
+432,Fettuccine Alfredo,m,6
+433,Califlower penne,l,3
+434,Souvlaki,p,5
+435,Scotch eggs,m,11
+436,Chilli con carne,l,10
+437,Pasta with Tomato and Basil,p,5
+438,Chicken milanese,p,11
+439,Pappardelle alla Bolognese,l,5
+440,Pizza,m,3
+441,Chicken wings,m,3
+442,Vegetable Soup,l,4
+443,Souvlaki,l,5
+444,Philadelphia maki,p,5
+445,Chicken Fajitas,m,10
+446,California maki,p,10
+447,Fettuccine Alfredo,l,2
+448,French fries with sausages,l,7
+449,Risotto with seafood,m,5
+450,Bruschette with Tomato,p,3
+451,Souvlaki,m,10
+452,Chilli con carne,p,8
+453,Pasta with Tomato and Basil,l,2
+454,Tiramisù,l,11
+455,Meatballs with sauce,m,9
+456,Caprese Salad,l,5
+457,Fish and chips,m,10
+458,Salmon nigiri,l,2
+459,Chicken Fajitas,l,12
+460,Ricotta stuffed Ravioli,p,11
+461,Pizza,p,2
+462,Teriyaki Chicken donburi,l,8
+463,Caesar Salad,p,3
+464,Califlower penne,m,7
+465,Fettuccine Alfredo,l,5
+466,Chicken wings,p,5
+467,Pork sausage roll,m,6
+468,Pork sausage roll,m,11
+469,Pasta with Tomato and Basil,l,10
+470,Pork belly buns,p,11
+471,Caesar Salad,p,6
+472,Tiramisù,m,4
+473,Fish and chips,m,9
+474,Fish and chips,p,8
+475,Salmon nigiri,m,3
+476,Chilli con carne,l,9
+477,Chicken wings,p,6
+478,Pork belly buns,l,8
+479,Pasta Carbonara,p,11
+480,Chilli con carne,m,11
+481,Pasta with Tomato and Basil,m,3
+482,Tiramisù,m,4
+483,Philadelphia maki,m,12
+484,Cheeseburger,m,2
+485,Fettuccine Alfredo,m,6
+486,Pork belly buns,l,12
+487,Pork belly buns,l,10
+488,Tuna sashimi,l,7
+489,Pork sausage roll,p,2
+490,Caprese Salad,p,11
+491,Tiramisù,m,9
+492,Fettuccine Alfredo,l,3
+493,Bruschette with Tomato,m,12
+494,Risotto with seafood,p,6
+495,Mushroom Risotto,m,7
+496,Tiramisù,l,5
+497,Pork belly buns,p,5
+498,Ebiten maki,m,10
+499,Scotch eggs,m,8
+500,Salmon nigiri,l,5
+501,Mushroom Risotto,m,6
+502,Philadelphia maki,l,11
+503,Barbecue Ribs,l,3
+504,Mushroom Risotto,l,3
+505,French fries with sausages,m,2
+506,Chicken milanese,m,2
+507,Chicken Fajitas,p,4
+508,Souvlaki,m,9
+509,Fish and chips,m,8
+510,Teriyaki Chicken donburi,p,4
+511,Pork sausage roll,l,5
+512,Scotch eggs,l,2
+513,Teriyaki Chicken donburi,p,11
+514,Pasta Carbonara,l,11
+515,Pizza,l,12
+516,Pasta Carbonara,p,4
+517,Scotch eggs,l,11
+518,Meatballs with sauce,p,8
+519,Risotto with seafood,l,11
+520,Lasagne,l,11
+521,Mushroom Risotto,p,8
+522,Linguine with clams,p,5
+523,Souvlaki,l,12
+524,Pork sausage roll,p,10
+525,Barbecue Ribs,m,2
+526,Lasagne,m,10
+527,Vegetable Soup,p,9
+528,Risotto with seafood,l,4
+529,Pork belly buns,p,12
+530,Pork sausage roll,l,4
+531,Philadelphia maki,m,8
+532,Chicken milanese,l,8
+533,Risotto with seafood,l,8
+534,Califlower penne,l,4
+535,Pizza,p,4
+536,Pizza,m,2
+537,Pasta and Beans,l,3
+538,California maki,p,3
+539,Caesar Salad,m,12
+540,Chicken milanese,m,8
+541,Ricotta stuffed Ravioli,l,2
+542,Califlower penne,m,3
+543,Tuna sashimi,m,11
+544,Mushroom Risotto,p,5
+545,Pasta Carbonara,p,12
+546,Pasta with Tomato and Basil,l,5
+547,Fish and chips,p,6
+548,French fries with sausages,l,8
+549,Pizza,m,3
+550,Fettuccine Alfredo,p,8
+551,Fettuccine Alfredo,l,8
+552,Vegetable Soup,p,7
+553,Mushroom Risotto,p,4
+554,Chilli con carne,m,4
+555,Pizza,m,3
+556,Cheeseburger,p,12
+557,Ebiten maki,p,6
+558,Souvlaki,l,2
+559,Pasta Carbonara,l,9
+560,Chicken Fajitas,l,4
+561,Ricotta stuffed Ravioli,p,9
+562,Vegetable Soup,l,4
+563,Risotto with seafood,l,10
+564,Pasta and Beans,l,5
+565,Chicken Fajitas,p,11
+566,Pasta with Tomato and Basil,m,8
+567,Fish and chips,p,2
+568,Pasta with Tomato and Basil,p,10
+569,Chicken milanese,p,4
+570,Linguine with clams,p,5
+571,Caesar Salad,p,2
+572,Pasta Carbonara,m,6
+573,French fries with sausages,p,2
+574,Califlower penne,m,3
+575,Ricotta stuffed Ravioli,m,8
+576,Chicken Fajitas,p,11
+577,Ricotta stuffed Ravioli,m,12
+578,Bruschette with Tomato,p,8
+579,Caprese Salad,m,7
+580,Vegetable Soup,p,5
+581,Tiramisù,p,9
+582,Pizza,p,2
+583,Pork sausage roll,m,4
+584,Pappardelle alla Bolognese,l,7
+585,Fish and chips,m,9
+586,Lasagne,p,3
+587,Chilli con carne,m,11
+588,Bruschette with Tomato,l,11
+589,Teriyaki Chicken donburi,l,8
+590,Ebiten maki,m,7
+591,Teriyaki Chicken donburi,m,11
+592,French fries with sausages,m,6
+593,Bruschette with Tomato,p,8
+594,Linguine with clams,l,8
+595,Chicken wings,m,12
+596,Teriyaki Chicken donburi,l,7
+597,Teriyaki Chicken donburi,l,3
+598,Califlower penne,m,4
+599,Pizza,m,3
+600,French fries with sausages,l,3
+601,Scotch eggs,m,5
+602,Pasta and Beans,p,9
+603,California maki,p,10
+604,Tuna sashimi,l,11
+605,Chicken wings,p,3
+606,Chicken Fajitas,m,11
+607,Chicken Fajitas,p,11
+608,Risotto with seafood,p,3
+609,Souvlaki,p,3
+610,Fish and chips,l,7
+611,Scotch eggs,p,11
+612,Pappardelle alla Bolognese,l,5
+613,French fries with sausages,l,7
+614,Chilli con carne,l,6
+615,Lasagne,p,9
+616,Vegetable Soup,l,5
+617,Ebiten maki,p,7
+618,Tuna sashimi,p,4
+619,Pappardelle alla Bolognese,l,3
+620,Pasta and Beans,l,12
+621,Pasta and Beans,p,8
+622,Lasagne,p,6
+623,Vegetable Soup,l,5
+624,Tiramisù,m,8
+625,Cheeseburger,m,12
+626,Vegetable Soup,p,8
+627,Pasta with Tomato and Basil,l,9
+628,Pasta and Beans,l,4
+629,Tiramisù,p,2
+630,Bruschette with Tomato,m,8
+631,Caprese Salad,m,11
+632,Pasta with Tomato and Basil,m,8
+633,Pasta with Tomato and Basil,p,11
+634,Fish and chips,l,12
+635,Barbecue Ribs,m,12
+636,Caprese Salad,m,2
+637,Fish and chips,m,12
+638,Caprese Salad,l,12
+639,Mushroom Risotto,m,4
+640,Tuna sashimi,m,3
+641,Chicken wings,m,11
+642,Risotto with seafood,m,9
+643,Cheeseburger,m,2
+644,Risotto with seafood,l,7
+645,Barbecue Ribs,p,5
+646,Califlower penne,p,4
+647,Chicken milanese,p,11
+648,Pasta Carbonara,m,5
+649,Tiramisù,l,5
+650,Barbecue Ribs,m,9
+651,Barbecue Ribs,m,7
+652,Ricotta stuffed Ravioli,p,10
+653,Cheeseburger,p,9
+654,Pork belly buns,p,3
+655,French fries with sausages,l,8
+656,Caprese Salad,m,3
+657,Chicken milanese,l,5
+658,Barbecue Ribs,l,12
+659,Bruschette with Tomato,m,10
+660,Mushroom Risotto,m,2
+661,Fettuccine Alfredo,m,11
+662,Philadelphia maki,l,5
+663,Risotto with seafood,p,2
+664,Risotto with seafood,p,12
+665,Chicken wings,m,2
+666,Califlower penne,m,4
+667,Pasta with Tomato and Basil,l,5
+668,California maki,m,2
+669,Caprese Salad,p,12
+670,Ebiten maki,p,3
+671,Pizza,m,12
+672,Pizza,p,8
+673,Chicken milanese,p,12
+674,California maki,p,7
+675,Linguine with clams,m,4
+676,Pappardelle alla Bolognese,l,6
+677,Pasta and Beans,p,4
+678,Pizza,p,12
+679,Risotto with seafood,m,2
+680,Pappardelle alla Bolognese,m,10
+681,Pizza,p,9
+682,Chicken wings,m,12
+683,Risotto with seafood,l,2
+684,Pork sausage roll,l,5
+685,Ebiten maki,p,10
+686,Bruschette with Tomato,p,4
+687,Salmon nigiri,p,9
+688,Pork sausage roll,p,7
+689,Califlower penne,m,7
+690,Katsu Curry,p,5
+691,Pasta and Beans,l,9
+692,Souvlaki,l,6
+693,Meatballs with sauce,p,12
+694,California maki,p,2
+695,Fettuccine Alfredo,m,7
+696,Ebiten maki,p,5
+697,Pasta with Tomato and Basil,p,2
+698,Chicken wings,m,5
+699,Pasta with Tomato and Basil,l,4
+700,Chicken Fajitas,p,2
+701,Scotch eggs,m,7
+702,Pizza,p,3
+703,Bruschette with Tomato,p,5
+704,French fries with sausages,l,10
+705,Tuna sashimi,p,5
+706,Fettuccine Alfredo,p,7
+707,Pork belly buns,l,7
+708,Chicken Fajitas,p,8
+709,Teriyaki Chicken donburi,p,9
+710,Mushroom Risotto,m,4
+711,Vegetable Soup,p,7
+712,Pork sausage roll,p,7
+713,Souvlaki,l,7
+714,Salmon nigiri,l,12
+715,Chicken milanese,p,9
+716,Lasagne,m,7
+717,Salmon nigiri,p,9
+718,Califlower penne,l,4
+719,Pasta and Beans,l,5
+720,Pizza,l,10
+721,Barbecue Ribs,m,4
+722,Barbecue Ribs,m,3
+723,Linguine with clams,m,7
+724,Barbecue Ribs,m,3
+725,Ricotta stuffed Ravioli,m,5
+726,Caesar Salad,l,5
+727,Pork sausage roll,p,2
+728,Ebiten maki,l,9
+729,Risotto with seafood,p,4
+730,Bruschette with Tomato,l,10
+731,Caprese Salad,l,7
+732,Pork belly buns,m,7
+733,Pork sausage roll,m,4
+734,Pork belly buns,l,10
+735,Tuna sashimi,p,10
+736,Chilli con carne,l,9
+737,Cheeseburger,p,8
+738,Chicken Fajitas,m,3
+739,Lasagne,p,8
+740,Pasta with Tomato and Basil,p,10
+741,Pork sausage roll,p,3
+742,Salmon nigiri,l,12
+743,Ebiten maki,l,12
+744,Katsu Curry,p,8
+745,Bruschette with Tomato,m,8
+746,California maki,m,7
+747,Salmon nigiri,l,10
+748,Bruschette with Tomato,p,12
+749,Pasta with Tomato and Basil,m,5
+750,Tuna sashimi,m,11
+751,Pork belly buns,l,3
+752,Chicken Fajitas,p,10
+753,Chilli con carne,l,6
+754,Califlower penne,l,12
+755,Scotch eggs,p,9
+756,Lasagne,m,11
+757,Fettuccine Alfredo,l,9
+758,Califlower penne,l,11
+759,Ricotta stuffed Ravioli,l,11
+760,Fettuccine Alfredo,m,7
+761,Cheeseburger,m,7
+762,Tuna sashimi,p,2
+763,Fettuccine Alfredo,p,11
+764,Tiramisù,p,4
+765,Bruschette with Tomato,p,11
+766,Mushroom Risotto,m,2
+767,Chicken wings,l,2
+768,Pasta Carbonara,m,11
+769,Bruschette with Tomato,p,3
+770,Linguine with clams,l,3
+771,Souvlaki,l,8
+772,Chicken Fajitas,m,7
+773,Ebiten maki,l,10
+774,Teriyaki Chicken donburi,l,10
+775,Tiramisù,m,9
+776,French fries with sausages,p,5
+777,Meatballs with sauce,m,3
+778,Mushroom Risotto,m,8
+779,Mushroom Risotto,l,4
+780,French fries with sausages,l,3
+781,Scotch eggs,l,10
+782,Fish and chips,m,4
+783,Califlower penne,m,11
+784,California maki,p,3
+785,Pork sausage roll,l,8
+786,Chicken wings,l,8
+787,Chilli con carne,l,6
+788,Chilli con carne,m,8
+789,Teriyaki Chicken donburi,l,8
+790,Caprese Salad,p,8
+791,Bruschette with Tomato,l,7
+792,Scotch eggs,l,4
+793,Philadelphia maki,p,6
+794,Meatballs with sauce,p,9
+795,Lasagne,p,10
+796,Vegetable Soup,l,2
+797,Caesar Salad,l,9
+798,Pasta Carbonara,l,4
+799,Fish and chips,p,9
+800,Fettuccine Alfredo,l,11
+801,Chicken milanese,m,6
+802,Bruschette with Tomato,p,6
+803,Pizza,p,6
+804,Chicken wings,p,6
+805,Pork belly buns,p,2
+806,Fish and chips,l,3
+807,Pork sausage roll,m,4
+808,French fries with sausages,l,5
+809,Fish and chips,m,4
+810,Scotch eggs,m,9
+811,Philadelphia maki,p,4
+812,Linguine with clams,p,10
+813,Bruschette with Tomato,m,12
+814,Bruschette with Tomato,p,10
+815,Souvlaki,l,7
+816,Lasagne,p,6
+817,Ricotta stuffed Ravioli,m,5
+818,Bruschette with Tomato,p,9
+819,Chilli con carne,l,12
+820,Califlower penne,m,10
+821,Philadelphia maki,m,8
+822,Meatballs with sauce,p,10
+823,Pork belly buns,l,7
+824,Katsu Curry,l,6
+825,Scotch eggs,m,3
+826,Meatballs with sauce,p,4
+827,Fettuccine Alfredo,p,8
+828,Pork sausage roll,p,2
+829,Chicken wings,p,12
+830,Califlower penne,m,10
+831,Souvlaki,m,9
+832,Chilli con carne,l,4
+833,Risotto with seafood,m,11
+834,Pasta Carbonara,p,6
+835,Caesar Salad,m,3
+836,Tiramisù,m,2
+837,Scotch eggs,p,11
+838,Cheeseburger,l,10
+839,Chilli con carne,m,11
+840,Chilli con carne,p,10
+841,Teriyaki Chicken donburi,l,5
+842,Souvlaki,l,6
+843,Tuna sashimi,p,4
+844,Risotto with seafood,p,8
+845,Katsu Curry,m,8
+846,Bruschette with Tomato,p,4
+847,Linguine with clams,m,3
+848,Mushroom Risotto,m,7
+849,California maki,l,12
+850,Lasagne,p,6
+851,Pizza,m,9
+852,Chicken wings,l,7
+853,Chilli con carne,m,5
+854,Fish and chips,p,2
+855,Pasta with Tomato and Basil,p,12
+856,Tuna sashimi,l,11
+857,Ricotta stuffed Ravioli,m,7
+858,Lasagne,p,12
+859,Pasta Carbonara,p,2
+860,Pasta and Beans,p,3
+861,Ebiten maki,l,10
+862,Mushroom Risotto,p,8
+863,Mushroom Risotto,m,5
+864,Salmon nigiri,p,8
+865,Risotto with seafood,m,11
+866,Fish and chips,p,5
+867,Philadelphia maki,p,9
+868,Chicken Fajitas,l,3
+869,Pork belly buns,p,9
+870,Chicken milanese,l,9
+871,Pork sausage roll,p,2
+872,Pasta and Beans,m,7
+873,Salmon nigiri,p,11
+874,Vegetable Soup,m,5
+875,Katsu Curry,m,7
+876,Califlower penne,m,6
+877,Barbecue Ribs,l,9
+878,Califlower penne,p,2
+879,Tuna sashimi,l,9
+880,Salmon nigiri,l,3
+881,Lasagne,l,10
+882,Bruschette with Tomato,l,11
+883,California maki,m,3
+884,Califlower penne,p,6
+885,Lasagne,l,7
+886,French fries with sausages,m,8
+887,Cheeseburger,p,2
+888,Pork belly buns,p,5
+889,Califlower penne,l,3
+890,Bruschette with Tomato,l,3
+891,Tuna sashimi,p,12
+892,Chicken milanese,p,11
+893,Chilli con carne,p,5
+894,Tiramisù,p,10
+895,Souvlaki,p,3
+896,Bruschette with Tomato,p,12
+897,Fish and chips,l,8
+898,Pasta Carbonara,l,3
+899,Tuna sashimi,p,6
+900,Chicken Fajitas,l,12
+901,Teriyaki Chicken donburi,l,9
+902,Cheeseburger,l,11
+903,Lasagne,m,12
+904,Caesar Salad,l,5
+905,Cheeseburger,m,6
+906,Pasta with Tomato and Basil,p,8
+907,Barbecue Ribs,m,2
+908,Lasagne,m,2
+909,Fish and chips,m,3
+910,Philadelphia maki,l,3
+911,Chicken Fajitas,m,11
+912,Chicken Fajitas,p,4
+913,Pasta with Tomato and Basil,p,12
+914,Pork belly buns,l,10
+915,Bruschette with Tomato,m,2
+916,Pappardelle alla Bolognese,p,4
+917,Pasta Carbonara,m,9
+918,Pork sausage roll,m,6
+919,Teriyaki Chicken donburi,l,4
+920,Fettuccine Alfredo,l,9
+921,Pappardelle alla Bolognese,l,6
+922,French fries with sausages,l,3
+923,Teriyaki Chicken donburi,p,12
+924,Souvlaki,l,4
+925,Pork sausage roll,m,10
+926,Katsu Curry,p,7
+927,Philadelphia maki,p,12
+928,Scotch eggs,m,4
+929,Pizza,p,7
+930,Barbecue Ribs,m,10
+931,Tuna sashimi,p,7
+932,Chicken wings,l,5
+933,Teriyaki Chicken donburi,p,11
+934,Meatballs with sauce,p,3
+935,Bruschette with Tomato,p,8
+936,Pappardelle alla Bolognese,l,2
+937,Salmon nigiri,p,7
+938,Salmon nigiri,m,10
+939,Chicken wings,m,2
+940,Lasagne,m,2
+941,Vegetable Soup,m,12
+942,Lasagne,p,10
+943,Pasta with Tomato and Basil,m,10
+944,Bruschette with Tomato,p,3
+945,Tuna sashimi,p,11
+946,Katsu Curry,p,9
+947,Pizza,l,11
+948,Cheeseburger,p,12
+949,Scotch eggs,p,11
+950,Fish and chips,l,8
+951,Salmon nigiri,l,3
+952,Ebiten maki,p,2
+953,Chilli con carne,m,12
+954,Mushroom Risotto,m,4
+955,California maki,p,4
+956,Philadelphia maki,l,12
+957,Meatballs with sauce,p,9
+958,Pappardelle alla Bolognese,m,5
+959,Souvlaki,l,9
+960,Tiramisù,l,9
+961,Chicken Fajitas,m,9
+962,Pasta Carbonara,m,9
+963,Salmon nigiri,l,5
+964,California maki,p,5
+965,Risotto with seafood,m,11
+966,Mushroom Risotto,l,5
+967,Ricotta stuffed Ravioli,m,10
+968,Pork belly buns,m,7
+969,California maki,l,7
+970,Tiramisù,m,12
+971,Pasta and Beans,l,11
+972,Chicken milanese,l,3
+973,Philadelphia maki,p,10
+974,Tuna sashimi,l,7
+975,Mushroom Risotto,p,5
+976,Ricotta stuffed Ravioli,m,5
+977,Caesar Salad,m,9
+978,Cheeseburger,p,4
+979,Pasta with Tomato and Basil,p,12
+980,Vegetable Soup,l,7
+981,Philadelphia maki,p,5
+982,Pork belly buns,m,3
+983,Scotch eggs,p,11
+984,Chicken wings,p,2
+985,Ricotta stuffed Ravioli,p,3
+986,Cheeseburger,l,12
+987,Linguine with clams,p,12
+988,Chicken wings,l,10
+989,Lasagne,m,7
+990,Ebiten maki,l,12
+991,Cheeseburger,p,12
+992,Pasta Carbonara,m,8
+993,Pizza,p,4
+994,Chilli con carne,l,8
+995,Chicken wings,l,2
+996,Ricotta stuffed Ravioli,m,3
+997,Katsu Curry,p,2
+998,Fish and chips,m,11
+999,Pasta Carbonara,l,3

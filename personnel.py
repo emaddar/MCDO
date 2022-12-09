@@ -25,7 +25,7 @@ for i in range(0, int(1000)):
         data[i]['rib'] = fake.iban()
         data[i]['adresse_perso'] = fake.address().replace('\n', ', ')
         data[i]['ville_perso'] = data[i]['adresse_perso'].split(" ")[-1]
-        data[i]['code_postale_perso'] = random.randint(56000,57000)
+        data[i]['code_postale_perso'] = random.randint(56000,99000)
         data[i]['date_entree'] = fake.date_between(start_date="-30y",end_date="-2y")
         data[i]['status_employee'] =  np.random.choice(sample_list, p=[0.1, 0.4, 0.5])
         data[i]['en_formation'] = random.randint(0, 1)

@@ -1,0 +1,3 @@
+.open McDo.db
+.mode csv
+.import CSV/TABLE TABLE
